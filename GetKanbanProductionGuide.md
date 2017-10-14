@@ -1,6 +1,6 @@
 # Russell Healy's GetKanban Simulation Game
 
-Russell Healy of getKanban Limited in New Zealand has created a fantastic instructional board game called “getKanban”. You can read more details about the game at: https://getkanban.com/
+Russell Healy of getKanban Limited in New Zealand has created a fantastic instructional board game called “getKanban”. You can read more details about the game at: [https://getkanban.com/]
 
 This game is easily the most efficient way I know for people to learn Kanban at the next level of depth. I find players learn in three hours what would otherwise take more than a day to learn at the same level of depth. Such is the instructional power of a very effective simulation, which the getKanban game definitely is.
 
