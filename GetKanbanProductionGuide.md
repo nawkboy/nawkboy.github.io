@@ -1,6 +1,6 @@
 # Russell Healy's GetKanban Simulation Game
 
-Russell Healy of getKanban Limited in New Zealand has created a fantastic instructional board game called “getKanban”. You can read more details about the game at: [GetKanban Website](https://getkanban.com/)
+Russell Healy of getKanban Limited in New Zealand has created a fantastic instructional board game called “getKanban”. You can read more details about the game at: [https://getkanban.com/](https://getkanban.com/)
 
 This game is easily the most efficient way I know for people to learn Kanban at the next level of depth. I find players learn in three hours what would otherwise take more than a day to learn at the same level of depth. Such is the instructional power of a very effective simulation, which the getKanban game definitely is.
 
@@ -22,7 +22,7 @@ in far less time than the day or so it originally took me.
 
 Economically printing and laminating the print files is the most challeging and time consuming part of producing the game. Expect this part to be a bit fussy.
 
-The v2 print files can be found at: https://getkanban.com/pages/free-version
+The v2 print files can be found at: [https://getkanban.com/pages/free-version](https://getkanban.com/pages/free-version)
 Remember you are looking for Version 2, as Healy only provides a complete set of print files for version 2.
 
 You will want to have all of the game pieces and the board laminated. Although dry-erase marker laminate is better, it is relatively pricey. As long as you have dry-erase cleaner, normal laminate is much cheaper and works almost as well.
@@ -44,20 +44,20 @@ Identifying and collecting all the various additional supplies required for each
   You will need one per game set. The colors in this specific expo pack align with the color codes used in the getKanban game materials.
 
   - EXPO Product ID: 86603
-  - Amazon Link: https://www.amazon.com/gp/product/B000J0B2YY
+  - Amazon Link: [https://www.amazon.com/gp/product/B000J0B2YY](https://www.amazon.com/gp/product/B000J0B2YY)
   
 + **EXPO Low-Odor Dry Erase Markers, Fine Point, Black, 12-Count**
 
   You will need two additional black markers per game set. This box of 12 will therefore be enough for 6 game sets.
 
   - EXPO Product ID: 86001
-  - Amazon Link: https://www.amazon.com/gp/product/B0006HXJFK
+  - Amazon Link: [https://www.amazon.com/gp/product/B0006HXJFK](https://www.amazon.com/gp/product/B0006HXJFK)
   
 + **EXPO Whiteboard / Dry Erase Board Liquid Cleaner, 8-ounce**
 
   The small 8-ounce bottles work well in a classroom setting. I have learned dry-erase marker cleaning liquids are not all created equal. Assuming your game pieces are laminated with the more economical standard laminate, using better dry erase liquid cleaner and better paper towels makes a noticeable difference.
 
-  - Amazon Link: https://www.amazon.com/gp/product/B00006IBO5
+  - Amazon Link: [https://www.amazon.com/gp/product/B00006IBO5](https://www.amazon.com/gp/product/B00006IBO5)
   
 
 + **16mm d6 Dice: Red, Blue, Orange**
@@ -65,33 +65,33 @@ Identifying and collecting all the various additional supplies required for each
   Each game set will require 2 Orange dice, 2 Red Dice, and 3 Blue dice. Standard 16mm Six Sided Dice work great. Since people will lose them and mix them up across sets, I recommend you buy a few extra of each color and ensure consistency of brand and style.
 
   - **Chessex Dice d6 Sets: Opaque Red with White - 16mm Six Sided Die (12) Block of Dice**
-    - Amazon Link: https://www.amazon.com/gp/product/B0011WMADQ
+    - Amazon Link: [https://www.amazon.com/gp/product/B0011WMADQ](https://www.amazon.com/gp/product/B0011WMADQ)
 
   - **Chessex Dice d6 Sets: Opaque Blue with White - 16mm Six Sided Die (12) Block of Dice**
-    - Amazon Link: https://www.amazon.com/gp/product/B0011WHL4Y
+    - Amazon Link: [https://www.amazon.com/gp/product/B0011WHL4Y](https://www.amazon.com/gp/product/B0011WHL4Y)
 
   - **Chessex Dice d6 Sets: Oranage with White Translucent - 16mm Six Sided Die (12) Block of Dice**
-    - Amazon Link: https://www.amazon.com/gp/product/B000RZN3VQ
+    - Amazon Link: [https://www.amazon.com/gp/product/B000RZN3VQ](https://www.amazon.com/gp/product/B000RZN3VQ)
 
   
 + **Gallon Sized Plastic Freezer Bags**
 
   You will need something to collect the various game pieces for each game set. A transparent gallon sized plastic freezer bag per game set works great. The freezer bags have thicker plastic and usually hold up better than the non-freezer versions.
 
-  - Amazon Link (Hefty): https://www.amazon.com/dp/B01JLPJM7G?th=1
-  - Amazon Link (Ziplock): https://www.amazon.com/dp/B00CQAHOCO
+  - Amazon Link (Hefty): [https://www.amazon.com/dp/B01JLPJM7G](https://www.amazon.com/dp/B01JLPJM7G)
+  - Amazon Link (Ziplock): [https://www.amazon.com/dp/B00CQAHOCO](https://www.amazon.com/dp/B00CQAHOCO)
   
 + **Bounty Select-A-Size, Absorbent Paper Towel Roll**
 
   One roll will be more than you need a large number of game sets. Any brand of better kitchen paper towel will obviously work. The hard paper towels you find in the average office kitchen and restroom don't work well.
 
-  - Amazon Link: https://www.amazon.com/dp/B01LXU4M87
+  - Amazon Link: [https://www.amazon.com/dp/B01LXU4M87](https://www.amazon.com/dp/B01LXU4M87)
   
 + **ScotchBlue Painter's Tape, Multi-Use, 0.94-Inch by 60-Yard, 1 Roll**
 
   The main game boards the print shop produces will inevitably curl up a bit. Painter's tape is fantastic for taping the game boards down to the table.
 
-  - Amazon Link: https://www.amazon.com/gp/product/B00004Z4CP/
+  - Amazon Link: [https://www.amazon.com/gp/product/B00004Z4CP/](https://www.amazon.com/gp/product/B00004Z4CP/)
   
 + **Duffle Bag or Similar**
 
@@ -107,13 +107,12 @@ Identifying and collecting all the various additional supplies required for each
 
 ## Slides
 
-To help facilate the game, I have also produced a slide deck which makes it easier to walk people through the initial game round (Day 9). 
-
-Russell Healy has generously incorporated this derivative work into the print file download bundle so you will find it at https://getkanban.com/pages/free-version along with the print files.
+To help facilate the game, I have also produced a slide deck which makes it easier to walk people through the initial game round (Day 9). Russell Healy has generously incorporated my derivative work into the print file download bundle. You can therefore find it at 
+[https://getkanban.com/pages/free-version](https://getkanban.com/pages/free-version) along with the print files.
 
 ## Hacking getKanban
 
 Cheryl Hammond provides an interesting perspective on using the getKanban game. My experience has not been the same as her's. In my experience, "Evil Carlos" has not adversely affected learning outcomes at all. I suspect your experience will vary based on the skills and background of the game participants.
 
-http://blog.nwcadence.com/hacking-getkanban-version-2/
+[http://blog.nwcadence.com/hacking-getkanban-version-2/](http://blog.nwcadence.com/hacking-getkanban-version-2/)
 
