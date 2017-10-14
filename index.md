@@ -9,10 +9,9 @@ it makes sense.
 
 I expect to use this site to collect a variety of reference content organized by book chapter in order to make life easier for the reader of a printed copy of the book. There is also a variety of general reference content I have which will be better shared online, than to take up precious printed pages.
 
-Sincerely,
-James Carpenter
-Executive Agile Coach
-[https://www.linkedin.com/in/jamescarpenter1/](https://www.linkedin.com/in/jamescarpenter1/)
+# Author Information
+
+[James Carpenter's LinkedIn Profile](https://www.linkedin.com/in/jamescarpenter1/)
 
 # Reference Information
 
