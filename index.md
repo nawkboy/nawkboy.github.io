@@ -16,4 +16,3 @@ Prior to publishing the book I will likely change the layout, move to a custom d
 # Reference Information
 
 [GetKanban Game Production Guide](reference_info/GetKanbanProductionGuide)
-
