@@ -4,10 +4,10 @@ layout: default
 
 # Introduction
 
-I am actively authoring a book on various aspects of effective large scale agile adoptions. I am generally trying to avoid restating what others have already written about, and instead refer readers to external content whenever
-it makes sense. 
+I am actively authoring a book on various aspects of effective large scale agile adoptions. I am generally trying to avoid restating what others have already written about, and instead intend to refer readers to external content whenever it makes sense. This site gives me a place to organize this external
+content and references to the same.
 
-I expect to use this site to collect a variety of reference content organized by book chapter in order to make life easier for the reader of a printed copy of the book. There is also a variety of general reference content I have which will be better shared online, than to take up precious printed pages.
+Prior to publishing the book I will likely change the layout, move to a custom domain and make other similar cosmetic changes.
 
 # Author Information
 
