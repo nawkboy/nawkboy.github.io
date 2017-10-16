@@ -62,7 +62,7 @@ Identifying and collecting all the various additional supplies required for each
 
 + **16mm d6 Dice: Red, Blue, Orange**
   
-  Each game set will require 2 Orange dice, 2 Red Dice, and 3 Blue dice. Standard 16mm Six Sided Dice work great. Since people will lose them and mix them up across sets, I recommend you buy a few extra of each color and ensure consistency of brand and style.
+  Each game set will require 2 red dice, 3 blue dice, and and 3 orange dice. Standard 16mm six sided dice work great. Since people will lose them and mix them up across sets, I recommend you buy a few extra of each color and ensure consistency of brand and style.
 
   - **Chessex Dice d6 Sets: Opaque Red with White - 16mm Six Sided Die (12) Block of Dice**
     - Amazon Link: [https://www.amazon.com/gp/product/B0011WMADQ](https://www.amazon.com/gp/product/B0011WMADQ)
