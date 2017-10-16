@@ -97,7 +97,7 @@ Identifying and collecting all the various additional supplies required for each
 
   You will also want a container to keep all your game sets together. An old suit case works well. An appropriately sized duffle bag can also work well. A laminated game board is a little over 24" tall. You are therefore looking a bag or suitcase which can easily hold several rolled up laminated game boards with an approximate diameter of 8" and approximately 25" in length. You will also need room for the various laminated letter sized sheets and a freezer bag of small stuff for each game set. 
 
-  Whole Foods sometimes carries an inexpensive long shoulder bag which works well, although it looks like a diaper bag and frequently comes some very femine colors. A better choice can likely be found on Amazon with enough searching. Please let me know if you find an ideal choice.
+  Whole Foods sometimes carries an inexpensive long shoulder bag which works well, although it looks like a diaper bag and frequently comes in some very femine colors. A better choice can likely be found on Amazon with enough searching. Please let me know if you find an ideal choice.
   
   - Rolled Gameboard Length: 25 inches
   - Rolled Gameboard Diameter: 8 inches
