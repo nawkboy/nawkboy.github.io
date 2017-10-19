@@ -1,0 +1,1 @@
+[Official Scrum Guide](http://scrumguides.org/)

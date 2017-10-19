@@ -17,8 +17,47 @@ Prior to publishing the book I will likely change the layout, move to a custom d
 
 [GetKanban Game Production Guide](reference_info/GetKanbanProductionGuide)
 
+# Reference Information By Chapter
+
 [Chapter 1: Agile Deployment Models: Useful References](reference_by_chapter/AgileDeploymentModels)
 
 [Chapter 2: Agile Design Elements: Useful References](reference_by_chapter/AgileDesignElements)
+
+[Chapter 3: Mgmt. Behaviors in Scrum](reference_by_chapter/MgmtBehaviorsInScrum)
+
+[Chapter 4: Estimating Business Value](reference_by_chapter/EstimatingBusinessValue)
+
+[Chapter 5: Progressive Refinement At Scale](reference_by_chapter/ProgressiveRefinementAtScale)
+
+[Chapter 6: Sprint Alignment Wall](reference_by_chapter/SprintAlignmentWall)
+
+[Chapter 7: User Story Ruler](reference_by_chapter/UserStoryRuler)
+
+[Chapter 8: Example Scrum Task Boards](reference_by_chapter/ExampleScrumTaskBoards)
+
+[Chapter 9: Definition of Done Examples](reference_by_chapter/DefinitionOfDoneExamples)
+
+[Chapter 10: Triage Guidelines](reference_by_chapter/TriageGuidelines)
+
+
+[Chapter 11: Ratcheting Definition of Done](reference_by_chapter/RatchetingDefinitionOfDone)
+
+[Chapter 12: Obstacle Board Process](reference_by_chapter/ObstacleBoardProcess)
+
+[Chapter 13: Forecasting Releases](reference_by_chapter/ForcastingReleases)
+
+[Chapter 14: Discerning Genuine Unit Testing](reference_by_chapter/DiscerningGenuineUnitTesting)
+
+[Chapter 15: Terminology Definitions](reference_by_chapter/TerminologyDefinitions)
+
+[Chapter 16: Training Concerns](reference_by_chapter/TrainingConcerns)
+
+[Chapter 17: Scrum Master Selection](reference_by_chapter/ScrumMasterSelection)
+
+[Chapter 18: Scrum Diagrams](reference_by_chapter/ScrumDiagrams)
+
+[Chapter 19: Official Scrum Guide](reference_by_chapter/OfficalScrumGuide)
+
+[Chapter 20: Virtual Kanban](reference_by_chapter/VirtualKanban)
 
 
