@@ -1,3 +1,6 @@
+---
+title: Terminology Definitions: Useful References
+---
 
 [CI on a Dollar a Day” by James Shore: (~3 min.)](http://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a- Day.html)
 

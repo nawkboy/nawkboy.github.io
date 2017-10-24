@@ -1,3 +1,7 @@
+---
+title: Virtual Kanban: Useful References
+---
+
  [Kanban An Alternative Path to Agility by David J. Anderson](http://www.thepathtoagility.com/wp- content/uploads/2014/01/KanbanAltPathToAgility.pdf)
 
   + When Anderson talks about “Kanban” he is really talking about a whole lot more than flow control. His 6 Practices for Evolutionary DNA are:
