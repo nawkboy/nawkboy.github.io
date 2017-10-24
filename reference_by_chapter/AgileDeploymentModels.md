@@ -1,3 +1,9 @@
+---
+title: Agile Deployment Models: Useful References
+redirect_from: 
+  -"/fc_adm/"
+---
+
 # Agile Deployment Models: Useful References
 
 ## Agile Deployment Models Handout
