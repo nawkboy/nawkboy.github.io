@@ -90,7 +90,7 @@ You can't fight physics. Denying an uncomfortable reality doesn't change it. I w
 
 [Ken Schwaber talks about how short-term code quality compromises destroy long-term business value delivery (11 min.)](https://www.youtube.com/watch?v=vwEZoBuOT9w)
 
-[Coconut Headphones: Why Agile Has Failed: (~3 min)](http://mikehadlow.blogspot.com/2014/03/coconut-headphones-why-agile-has-failed.html)
-I don’t agree with everything Scott Bellware writes, yet the general sentiment is correct.
+[Coconut Headphones: Why Agile Has Failed](http://mikehadlow.blogspot.com/2014/03/coconut-headphones-why-agile-has-failed.html)
+I don’t agree with everything Mike Hadlow writes, yet the general sentiment is correct.
 
 ### External Customer Focus
