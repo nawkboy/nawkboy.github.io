@@ -17,6 +17,8 @@ Prior to publishing the book I will likely change the layout, move to a custom d
 
 [GetKanban Game Production Guide](reference_info/GetKanbanProductionGuide)
 
+[Self-Publishing Guidance](reference_info/SelfPublishingGuidance)
+
 # Reference Information By Chapter
 
 [Chapter 1: Agile Deployment Models: Useful References](reference_by_chapter/AgileDeploymentModels)
