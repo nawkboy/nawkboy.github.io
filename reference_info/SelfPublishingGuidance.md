@@ -9,7 +9,7 @@ by Guy Kawasaki et al.
 
 
 * Fantastic place to start learning about self-publishing. Kawasaki's guidance is generally very actionable. 
-* I read the Kindle version Kindle cover to cover.
+* I read the Kindle version cover to cover.
 
 
 [The Non-Designer's Design Book (4th Edition)](http://a.co/57GuwKM) 
@@ -19,7 +19,7 @@ by Robin Williams
   - Understanding and selecting appropriate typeface combinations
   - Understanding and making color scheme decisions
   - Understanding design principles of Proximity, Alignment, Repetition, and Contrast. What I learned influenced my diagrams, table design, and a multitude of other factors. 
-* I read the Kindle version Kindle cover to cover.
+* I read the Kindle version cover to cover.
 
 [The Elements of Typographic Style: Version 4.0: 20th Anniversary Edition](http://a.co/4Dv3V1i) 
 by Robert Bringhurst 
