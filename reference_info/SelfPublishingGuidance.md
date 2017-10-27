@@ -53,7 +53,7 @@ by Robert Bringhurst
 * [The Visual Display of Quantitative Information](http://a.co/76rAMzo) 
 by Edward R. Tufte 
 
-  - I have always liked Tufte's books. In addition to having great content, his books are often quoted as being known for their design.
+  - I have always liked Tufte's books. In addition to having great content, his books are often complimented for their typography.
 
 # Self-Publishing vs. Traditional Publishing
 
