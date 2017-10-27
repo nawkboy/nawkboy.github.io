@@ -210,7 +210,7 @@ Here are some notes I made to myself when trying to figure out what tool to use 
   - Skype: deanna.burghart
   - Website: [http://deanna.burghart.us](http://deanna.burghart.us)
   - LinkedIn: [https://www.linkedin.com/in/deannaburghart/](https://www.linkedin.com/in/deannaburghart/)
-  - Note: I was referred to DeAnna by a well known agile coach, who was referred to him by yet another coach. I have nothing but wonderful things to say in my interactions to date.
+  - Note: I was referred to DeAnna by a well known agile coach and author, who was initially referred to the first coach by yet another coach. I have nothing but wonderful things to say in my interactions to date.
 
 
 
