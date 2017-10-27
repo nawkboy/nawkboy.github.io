@@ -57,7 +57,7 @@ by Edward R. Tufte
 
 # Self-Publishing vs. Traditional Publishing
 
-A technical book with as narrow a focus as mine, is extremely unlikely to be profitable from a royalties perspective. The financial incentives to write such a book are almost entirely about marketing in the hopes of generating consulting opportunities. A single week of consulting will easily generate far more revenue than the book is likely to generate in its entire lifespan.
+A technical book with as narrow a focus as mine is extremely unlikely to be profitable from a royalties perspective. The financial incentives to write such a book are almost entirely about marketing in the hopes of generating consulting opportunities. A single week of consulting will easily generate far more revenue than the book is likely to generate in its entire lifespan.
 
 As you can see, the profit incentives of a traditional publisher are unlikely to ever be that well aligned with my own. There is a valid argument to be made for leveraging the clout of a publisher's brand to push my own, although that seems to matter less and less these days. Ultimately, I have decided the disadvantages of giving up control to a traditional publisher easily outweigh the advantages in my case.
 
