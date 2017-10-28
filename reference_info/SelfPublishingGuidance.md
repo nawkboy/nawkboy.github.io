@@ -75,7 +75,7 @@ I have also been consuming a lot of on-line articles related to book publishing.
 
 ## POD Choices
 
-If you Google a bit you will see tons of articles comparing the various POD choices. As a practical matter you will most likely end up using CreateSpace and IngramSpark. My current plan is to ensure my layout and trim size is compatible with both CreateSpace and IngramSpark requirements. I am using CreateSpace for the initial polishing stages due to their more novice friendly pricing and setup. When things are sufficiently polished and ready for publishing, I expect to use IngramSpark for producing premium hardcovers and a combination of CreateSpace and IngramSpark for soft-covers.
+If you google a bit you will see tons of articles comparing the various POD choices. As a practical matter you will most likely end up using CreateSpace and IngramSpark. My current plan is to ensure my layout and trim size are compatible with both CreateSpace and IngramSpark requirements. I am using CreateSpace for the initial polishing stages due to their more novice friendly pricing and setup. When things are sufficiently polished and ready for publishing, I expect to use IngramSpark for producing premium hardcovers and a combination of CreateSpace and IngramSpark for soft-covers.
 
 If you prefer to use an author services company, BookBaby seems to be the most popular choice. By using referrals and ALLi's lists of vetted editors and designers, I expect my final product will be much better than what BookBaby is likely to produce. In other words, BookBaby is likely a decent easy choice although it is very unlikely to be the best choice.
 
@@ -85,6 +85,12 @@ If you prefer to use an author services company, BookBaby seems to be the most p
 
 [Self-Publishing Basics: 5 Layout Mistakes that Make You Look Unprofessional - The Book Designer](https://www.thebookdesigner.com/2009/09/5-layout-mistakesr/)
 
+## Amazon POD: CreateSpace vs KDP
+
+Amazon has two input funnels to the same backend printing service. At this point in time it looks like it is generally best to use CreateSpace. I don't think Amazon is rapidly updating KDP as quickly as they claim, since nothing seems to have changed since the article below was written.
+
+[CreateSpace vs KDP](https://kindlepreneur.com/createspace-vs-kdp-print/)
+
 
 ## Preparing a file for print
 
@@ -93,11 +99,6 @@ Turns out creating a file for POD within InDesign is a bit tricky, with a myraid
 [Creating A PDF for Lightning Source in InDesign](https://www.thebookdesigner.com/2009/11/creating-a-pdf-for-lightning-source-in-indesign-part-3/)
 
 [Ingram Page talking about preparing files](https://www.ingramcontent.com/publishers/resources/digital-bookblock#standardBooks)
-
-
-[CreateSpace vs KDP](https://kindlepreneur.com/createspace-vs-kdp-print/)
-
-* Basically CreateSpace wins for now. This might change over time as KDP is enhanced. Interestingly, there are not many updates since the article was written so perhaps KDP isn’t adding functionality that quickly.
 
 [Preparing files for CreateSpace](http://www.williamswriting.com/2014/preparing-files-for-createspace/)
 
