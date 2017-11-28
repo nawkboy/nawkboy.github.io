@@ -10,3 +10,11 @@ title: Progressive Refinement At Scale: Useful References
 
 + Closely related to their Cross-Team Refinement article and resonates with my Sprint Alignment Wall chapter. 
 
+
+[Backlog Grooming Bugs Me by Jeff Patton](http://jpattonassociates.com/tag/grooming/)
+
++ Jeff Patton talks about the risks of boring unproductive refinement meetings and how to avoid them. [Jeff Patton](http://jpattonassociates.com) and [Roman Pichler](http://www.romanpichler.com) have long been the go to references for guidance regarding Product Ownership.
+
+[Tips for Effective Backlog Grooming by Charles Bradley](http://www.scrumcrazy.com/Tips+for+Effective+Backlog+Grooming)
+
++ Excellent set of tips for effective backlog refinement by Charles. I don't remember ever disagreeing with anything Charles has said or written. Like myself Charles is or at least once was a hard-core software engineer and so speaks from real world experience.
