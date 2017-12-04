@@ -30,23 +30,28 @@ Big nasty list I have somewhere.
 
 ### Various Management Books
 
-Dale Carnegie (collection)
+[Amazon: Dale Carnegie's Lifetime Plan for Success: The Great Bestselling Works Complete In One Volume](https://www.amazon.com/gp/product/1578660394)
 
-W Edwards Deming (collection)
+[Amazon: Various Books by W Edwards Deming](https://www.amazon.com/W.%20Edwards%20Deming/e/B000APR1PW)
 
-Great by Choice
+[Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All Hardcover
+by Jim Collins](https://www.amazon.com/Great-Choice-Uncertainty-Luck-Why-Despite/dp/0062120999)
 
-Tribal Leadership
+[Amazon: Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization Hardcover
+by Dave Logan and John King](https://www.amazon.com/Tribal-Leadership-Leveraging-Thriving-Organization/dp/0061251305)
 
 How Google Works
+[Amazon: How Google Works Hardcover by Eric Schmidt and Jonathan Rosenberg](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 
-Turn the Ship Around
+[Amazon: Turn the Ship Around!: A True Story of Turning Followers into Leaders
+by L. David Marquet](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
 
-Drive: The Surprising Truth About What Motivates Us
+[Amazon: Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594488843)
 
-The Agile Manifesto
+[The Agile Manifesto](http://agilemanifesto.org/)
 
 Reinventing Organizations
+[Amazon: Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness by Frederic Laloux](https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness/dp/296013351X)
 
 ### Organizational Maturity Levels
 
