@@ -83,7 +83,7 @@ Reinventing Organizations is the more contemporary model in use within the agile
 
 + Adkins/Spayd lecture introduces the concept using Laloux’s model. Towards the end they mention an organization is constrained by the level of thinking/mindset of the senior executive. 
 
-[Holacracy: The New Management System for a Rapidly Changing World by Brian Robertson](https://www.amazon.com/Holacracy-Management-System-Rapidly-Changing/dp/162779428X)
+[Amazon: Holacracy: The New Management System for a Rapidly Changing World by Brian Robertson](https://www.amazon.com/Holacracy-Management-System-Rapidly-Changing/dp/162779428X)
 + You will find the Holacracy folks frequenty reference Laloux's work. I’m not advocating Holacracy, I am simply pointing out it is important to recognize the close marketing connection between Laloux's and Robertson's work.
 
 
