@@ -57,7 +57,7 @@ by L. David Marquet](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/d
 
 Tribal Leadership is an older book, and gets less mindshare these days than Reinventing Organizations by Frederic Laloux. The message of both books is somewhat the same.
 
-[Tribal Leadership book by Dave Logan, John King, Halee-Fisher Wright](https://www.amazon.com/Tribal-Leadership-Leveraging-Thriving-Organization/dp/0061251321)
+[Amazon: Tribal Leadership book by Dave Logan, John King, Halee-Fisher Wright](https://www.amazon.com/Tribal-Leadership-Leveraging-Thriving-Organization/dp/0061251321)
 
 [Wikipedia Article on Tribal Leadership](https://en.wikipedia.org/wiki/Tribal_Leadership)
 
