@@ -52,7 +52,7 @@ by L. David Marquet](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/d
 Reinventing Organizations
 [Amazon: Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness by Frederic Laloux](https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness/dp/296013351X)
 
-### Organizational Maturity Levels
+### Organizational Maturity Models
 
 #### Tribal Leadership Model
 
@@ -65,6 +65,8 @@ Tribal Leadership is an older book, and gets less mindshare these days than Rein
 [Random Google search result, I have not read this one carefully](https://www.isixsigma.com/community/blogs/understanding-five-stages-tribal-leadership/)
 
 #### Reinventing Organizations Model
+
+Reinventing Organizations is the more contemporary model in use within the agile community. I personally find it a little cleaner than the Tribal Leadership model although very similar in many ways.
 
 [Reinventing Organizations Book](http://www.reinventingorganizations.com/)
 
