@@ -40,7 +40,6 @@ by Jim Collins](https://www.amazon.com/Great-Choice-Uncertainty-Luck-Why-Despite
 [Amazon: Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization Hardcover
 by Dave Logan and John King](https://www.amazon.com/Tribal-Leadership-Leveraging-Thriving-Organization/dp/0061251305)
 
-How Google Works
 [Amazon: How Google Works Hardcover by Eric Schmidt and Jonathan Rosenberg](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 
 [Amazon: Turn the Ship Around!: A True Story of Turning Followers into Leaders
