@@ -44,22 +44,20 @@ Prior to publishing the book I will likely change the layout, move to a custom d
 
 [Chapter 11: Ratcheting Definition of Done](reference_by_chapter/RatchetingDefinitionOfDone)
 
-[Chapter 12: Obstacle Board Process](reference_by_chapter/ObstacleBoardProcess)
+[Chapter 12: Forecasting Releases](reference_by_chapter/ForcastingReleases)
 
-[Chapter 13: Forecasting Releases](reference_by_chapter/ForcastingReleases)
+[Chapter 13: Discerning Genuine Unit Testing](reference_by_chapter/DiscerningGenuineUnitTesting)
 
-[Chapter 14: Discerning Genuine Unit Testing](reference_by_chapter/DiscerningGenuineUnitTesting)
+[Chapter 14: Terminology Definitions](reference_by_chapter/TerminologyDefinitions)
 
-[Chapter 15: Terminology Definitions](reference_by_chapter/TerminologyDefinitions)
+[Chapter 15: Training Concerns](reference_by_chapter/TrainingConcerns)
 
-[Chapter 16: Training Concerns](reference_by_chapter/TrainingConcerns)
+[Chapter 16: Scrum Master Selection](reference_by_chapter/ScrumMasterSelection)
 
-[Chapter 17: Scrum Master Selection](reference_by_chapter/ScrumMasterSelection)
+[Chapter 17: Scrum Diagrams](reference_by_chapter/ScrumDiagrams)
 
-[Chapter 18: Scrum Diagrams](reference_by_chapter/ScrumDiagrams)
+[Chapter 18: Official Scrum Guide](reference_by_chapter/OfficalScrumGuide)
 
-[Chapter 19: Official Scrum Guide](reference_by_chapter/OfficalScrumGuide)
-
-[Chapter 20: Virtual Kanban](reference_by_chapter/VirtualKanban)
+[Chapter 19: Virtual Kanban](reference_by_chapter/VirtualKanban)
 
 
