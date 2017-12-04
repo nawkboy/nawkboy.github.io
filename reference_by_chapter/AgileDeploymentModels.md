@@ -14,7 +14,7 @@ Explain Kotter Change Model is non-linear and provide a few links. Book, wikiped
 
 ## Studio Change Model Links
 
-Schwaber book. Software in 30 days.
+[Amazon: Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, and Leave Competitors in the Dust by Ken Schwaber  and Jeff Sutherland](https://www.amazon.com/Software-30-Days-Customers-Competitors/dp/1118206665)
 
 Dig up a few Scrum.org article on Studio model. Charles Bradley might have some good ones on scrumcrazy.com.
 
