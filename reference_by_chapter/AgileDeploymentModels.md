@@ -34,7 +34,7 @@ Big nasty list I have somewhere.
 
 [Amazon: Various Books by W Edwards Deming](https://www.amazon.com/W.%20Edwards%20Deming/e/B000APR1PW)
 
-[Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All Hardcover
+[Amazon: Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All Hardcover
 by Jim Collins](https://www.amazon.com/Great-Choice-Uncertainty-Luck-Why-Despite/dp/0062120999)
 
 [Amazon: Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization Hardcover
@@ -49,7 +49,6 @@ by L. David Marquet](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/d
 
 [The Agile Manifesto](http://agilemanifesto.org/)
 
-Reinventing Organizations
 [Amazon: Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage in Human Consciousness by Frederic Laloux](https://www.amazon.com/Reinventing-Organizations-Creating-Inspired-Consciousness/dp/296013351X)
 
 ### Organizational Maturity Models
