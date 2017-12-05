@@ -21,6 +21,8 @@ title: Progressive Refinement At Scale: Useful References
 
 ### Reasonable Scaling Frameworks
 
+Nexus and LeSS are very similar to each other, and largely codify behaviors and structure mature large scale Scrum teams have been employing for years.
+
 [Scrum.org Nexus](http://scrum.org/nexus)
 
 [LeSS](http://less.works)
