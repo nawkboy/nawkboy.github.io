@@ -14,7 +14,7 @@ title: Sprint Alignment Wall: Useful References
 
 ### Useful Construction Materials
 
-Although these tools would likely be easy to find in an office from the 1940s, they are extremely uncommon to find laying around today.
+Although these tools would likely be easy to find in an office before the 1980s, they are extremely uncommon to find laying around today. I recommend ordering them in advance as you are very likely to find them useful during the first couple days of an agile team's existance. 
 
 #### Vinyl Chart Tape
 
