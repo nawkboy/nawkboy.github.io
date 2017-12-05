@@ -27,5 +27,5 @@ The tooling landscape around continuous delivery has evolved quite a bit and con
 + I believe Terraform understands the overall deployment topology and provides cross-node orchestration, leaving the node specific details to Puppet, Ansible and the like.
 
 [Kubernetes](https://kubernetes.io/)
-+ Although not strictly an infrastructure as code tool, some of what is done with Terraform can alternatively be done using a Docker orchestration framework such as Kubernetes or Docker Swarm.
++ Although not strictly an Infrastructure As Code tool, some of what is done with Terraform can alternatively be done using a Docker orchestration framework such as Kubernetes or Docker Swarm.
 + I have not done the hands-on work to build out a complex CD pipeline in a few a years. Since that time things have evolved quite a bit. I believe some of the orchestration work which used to require writting a lot of bespoke code is now more readily available off the shelf.  
