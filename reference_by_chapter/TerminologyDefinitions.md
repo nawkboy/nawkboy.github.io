@@ -13,6 +13,8 @@ title: Terminology Definitions: Useful References
 
 ## Various Infrastructure as Code Tools
 
+The tooling landscape around continuous delivery has evolved quite a bit and continues to evolve rapidly. I recommend you do a good bit of research to figure out which tools are currently optimial for your needs before committing to a given choice. Although any decent choice can probably be made to work, there will inevitably be enough lock-in to make switching frameworks painful.
+
 [Puppet](https://puppet.com/)
 
 [Chef](https://www.chef.io/chef/)
