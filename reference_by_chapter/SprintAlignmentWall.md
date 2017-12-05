@@ -14,6 +14,8 @@ title: Sprint Alignment Wall: Useful References
 
 ### Useful Construction Materials
 
+Although these tools would likely be easy to find in an office from the 1940s, they are extremely uncommon to find laying around today.
+
 #### Vinyl Chart Tape
 
 Vinyl chart tape is remarkably difficult to find in your average brick and mortar office supply store. You will sometimes find the paper masking tape style, which is a very poor choice for use on a dry-erase board. It is also relatively expensive unless you buy it online in bulk.
@@ -71,6 +73,14 @@ Having a simple long straight-edge handy can be very useful. There is nothing sp
   - Long enough for anything you are likely to need.
   - Quite unwieldy compared to the shorter versions. Would be a good companion to the 48 inch straight-edge.
   
+  
+#### Churchill's Cabinet War Rooms
+  
+Remember people have successfully created very effective information management systems using very old school techniques. If you find yourself in London it is well worth the time to vist Churchill's cabinet war rooms for a great example of effective information radiator design.
+  
++ [Museum Website for Churchill's Cabinet War Rooms](http://www.iwm.org.uk/exhibitions/churchill-war-rooms/cabinet-war-rooms)
+
++ [Wikipedia Page on Churchill's War Rooms](https://en.wikipedia.org/wiki/Churchill_War_Rooms)
   
   
 
