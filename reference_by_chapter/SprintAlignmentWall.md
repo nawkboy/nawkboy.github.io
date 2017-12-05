@@ -13,7 +13,7 @@ title: Sprint Alignment Wall: Useful References
 + Closely related to their "Visualizing the Nexus Sprint Backlog" article and resonates with my chapter on "Progressive Refinement at Scale".
 
 
-[Useful Construction Materials](reference_info/UsefulConstructionMaterials)
+[Useful Construction Materials](/reference_info/UsefulConstructionMaterials)
 + Details a variety of useful construction tools you are likely to need to easily create a Sprint Alignment Wall or other similar information radiator. I recommend ordering these in advance.
   
 
