@@ -44,6 +44,7 @@ Here are a few I have ordered in the past. There is nothing special about this b
 
 [IRWIN Tools 1050 Magnetic I-beam Level, 72-Inch](https://www.amazon.com/Tools-Magnetic-I-beam-72-Inch-1801097/dp/B005XUHG8G)
 + A longer inexpensive level is handy when marking out a large whiteboad.
++ You can sometimes find levels marked as rulers as well.
 
 [Stanley 33-726 8m/26-Feet by 1-1/4-Inch FatMax Metric/Fractional Tape Rule](https://www.amazon.com/Stanley-33-726-26-Feet-4-Inch-Fractional/dp/B00009OYGK)
 + A basic retractable tape measure is extremely useful when laying out physical information radiator boards. This one has both metric and english markings.
@@ -56,7 +57,7 @@ Here are a few I have ordered in the past. There is nothing special about this b
 
 Having a simple long straight-edge handy can be very useful. There is nothing special about the specific brand choice here. You are likely to find there are only a few companies which make the longer straight edges.
 
-+ [Empire Level 4004 48-Inch Aluminum Straight Edge](https://www.amazon.com/Empire-Level-4004-Aluminum-Straight/dp/B00004YYFV]
++ [Empire Level 4004 48-Inch Aluminum Straight Edge](https://www.amazon.com/Empire-Level-4004-Aluminum-Straight/dp/B00004YYFV)
   - Good for large Post-it pads.
   - A little short when laying out a large board.
   - Relatively easy to handle.
@@ -68,7 +69,9 @@ Having a simple long straight-edge handy can be very useful. There is nothing sp
 
 + [Empire Level 4008 96-Inch Aluminum Straight Edge](https://www.amazon.com/gp/product/B0015YHEKO)
   - Long enough for anything you are likely to need.
-  - Quite unwieldy when you need something shorter. Would be a good companion to the 48 inch straight-edge.
+  - Quite unwieldy compared to the shorter versions. Would be a good companion to the 48 inch straight-edge.
+  
+  
   
 
 
