@@ -2,9 +2,11 @@
 title: Useful Construction Materials
 ---
 
+# Useful Construction Materials
+
 Although these tools would likely be easy to find in an office before the 1980s, they are extremely uncommon to find laying around today. I recommend ordering them in advance as you are very likely to find them useful during the first couple days of an agile team's existance. 
 
-#### Vinyl Chart Tape
+## Vinyl Chart Tape
 
 Vinyl chart tape is remarkably difficult to find in your average brick and mortar office supply store. You will sometimes find the paper masking tape style, which is a very poor choice for use on a dry-erase board. It is also relatively expensive unless you buy it online in bulk.
 
@@ -18,7 +20,7 @@ Here are a few I have ordered in the past. There is nothing special about this b
 
 + [Amazon search: vinyl chart tape](https://www.amazon.com/s?url=search-alias%3Daps&field-keywords=vinyl+chart+tape)
 
-#### Other Items
+## Other Items
 
 [PostIt Brand Poster Sized Pads](https://www.amazon.com/Post-Self-Stick-Easel-Inches-30-Sheet/dp/B00006IA9F)
 + The 3M brand products are usually much better than the other brands.
@@ -30,7 +32,7 @@ Here are a few I have ordered in the past. There is nothing special about this b
 [ScotchBlue Painter's Tape, Multi-Use, .94-Inch by 60-Yard, 1 Roll](https://www.amazon.com/gp/product/B00004Z4CP)
 + Extremely handy to have around. No agile team with physical boards should be without it.
 
-### Measuring Tools
+## Measuring Tools
 
 [IRWIN Tools 1050 Magnetic I-beam Level, 72-Inch](https://www.amazon.com/Tools-Magnetic-I-beam-72-Inch-1801097/dp/B005XUHG8G)
 + A longer inexpensive level is handy when marking out a large whiteboad.
@@ -43,7 +45,7 @@ Here are a few I have ordered in the past. There is nothing special about this b
 + A simple short ruler of some sort is useful as well. This engineers scale is inexpensive and should suit any needs you might have.
 
 
-#### Long Straight Edge
+## Long Straight Edge
 
 Having a simple long straight-edge handy can be very useful. There is nothing special about the specific brand choice here. You are likely to find there are only a few companies which make the longer straight edges.
 
@@ -62,7 +64,7 @@ Having a simple long straight-edge handy can be very useful. There is nothing sp
   - Quite unwieldy compared to the shorter versions. Would be a good companion to the 48 inch straight-edge.
   
   
-#### Churchill's Cabinet War Rooms
+## Churchill's Cabinet War Rooms
   
 Remember people have successfully created very effective information management systems using very old school techniques. If you find yourself in London it is well worth the time to vist Churchill's cabinet war rooms for a great example of effective information radiator design.
   
