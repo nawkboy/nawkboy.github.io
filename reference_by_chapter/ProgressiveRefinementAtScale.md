@@ -18,3 +18,9 @@ title: Progressive Refinement At Scale: Useful References
 [Tips for Effective Backlog Grooming by Charles Bradley](http://www.scrumcrazy.com/Tips+for+Effective+Backlog+Grooming)
 
 + Excellent set of tips for effective backlog refinement by Charles. I don't remember ever disagreeing with anything Charles has said or written. Like myself Charles is or at least once was a hard-core software engineer and so speaks from real world experience.
+
+### Reasonable Scaling Frameworks
+
+[Scrum.org Nexus](http://scrum.org/nexus)
+
+[LeSS](http://less.works)
