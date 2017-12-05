@@ -13,6 +13,10 @@ Relevant Google search terms which might be useful for you:
 
 A few random relevant articles:
 
+[Wikipedia on Planning Poker](https://en.wikipedia.org/wiki/Planning_poker)
++ Planning Poker is probably the most common approach for estimating User Story effort.
++ The Planning Poker technique is distinct from, and often used in combination with Affinity Estimation.
+
 [Improve your agile estimates using the Ruler Score](http://blog.plataformatec.com.br/2014/04/improve-your-agile-estimates-using-the-ruler-score/) by Caroline Mota
 
 [Affinity Estimating: A How-To](http://www.gettingagile.com/2008/07/04/affinity-estimating-a-how-to/) by Chris Sterling
