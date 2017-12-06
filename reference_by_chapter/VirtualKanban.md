@@ -4,6 +4,13 @@ title: Virtual Kanban: Useful References
 
 # Virtual Kanban: Useful References
 
+# Producing GetKanban Game
+
+[GetKanban Production Guide](http://forgingchange.com/reference_info/GetKanbanProductionGuide)
++ Provides instructions to help you more easily produce the free version of Russell Healy's fantastic GetKanban simulation game. There isn't a better way to learn Kanban basics. Buy the newest commercial version if you can afford it, otherwise use this guide to produce the free version in much less time than it originally took me to do so.
+
+## Various Other Reference Information
+
 [YouTube Search for "Kanban Introduction"](https://www.youtube.com/results?search_query=kanban+introduction)
 + There are a [plethora](https://www.youtube.com/watch?v=-mTUmczVdik) of introductory articles and videos on the use of basic Virtual Kanban boards. Finding something which goes past the basics is more challenging. The complex kanban sequence below, the GetKanban game, and the Virtual Kanban chapter in Forging Change help close this gap a bit.
 
@@ -11,8 +18,7 @@ title: Virtual Kanban: Useful References
 + Demonstrates card flow through a rather complex Virtual Kanban board.
 + Created as a slide show in PDF format.
 
-[GetKanban Production Guide](http://forgingchange.com/reference_info/GetKanbanProductionGuide)
-+ Provides instructions to help you more easily produce the free version of Russell Healy's fantastic GetKanban simulation game. There isn't a better way to learn Kanban basics. Buy the newest commercial version if you can afford it, otherwise use this guide to produce the free version in much less time than it originally took me to do so.
+
 
  [Kanban An Alternative Path to Agility by David J. Anderson](http://www.djaa.com/kanban-alternative-path-agility)
 
