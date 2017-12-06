@@ -5,7 +5,7 @@ title: Virtual Kanban: Useful References
 # Virtual Kanban: Useful References
 
 [YouTube Search for "Kanban Introduction"](https://www.youtube.com/results?search_query=kanban+introduction)
-+ There are a [plethora](https://www.youtube.com/watch?v=-mTUmczVdik) of introductory Kanban articles and YouTube videos on basic Kanban. Finding something which goes past the basics is more challenging.
++ There are a [plethora](https://www.youtube.com/watch?v=-mTUmczVdik) of introductory articles and videos on the use of basic Virtual Kanban boards. Finding something which goes past the basics is more challenging.
 
 [Complex Kanban Sequence](https://www.dropbox.com/s/deuooidw9vivpa9/ComplexKanbanSequence.pdf?dl=0)
 + Demonstrates card flow through a rather complex Virtual Kanban board.
