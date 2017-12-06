@@ -2,6 +2,7 @@
 title: Forecasting Releases: Useful References
 ---
 
+# Forecasting Releases: Useful References
 
 [Jeff Patton: User Story Mapping](http://jpattonassociates.com/user-story-mapping/)
 
