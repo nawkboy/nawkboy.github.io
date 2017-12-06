@@ -28,4 +28,6 @@ The tooling landscape around continuous delivery has evolved quite a bit and con
 
 [Kubernetes](https://kubernetes.io/)
 + Although not strictly an Infrastructure As Code tool, some of what is done with Terraform can alternatively be done using a Docker orchestration framework such as Kubernetes or Docker Swarm.
-+ I have not done the hands-on work to build out a complex CD pipeline in a few a years. Since that time things have evolved quite a bit. I believe some of the orchestration work which used to require writting a lot of bespoke code is now more readily available off the shelf.  
++ I have not done the hands-on work to build out a complex CD pipeline in a few a years. Since that time things have evolved quite a bit. I believe some of the orchestration work which used to require writting a lot of bespoke code is now more readily available off the shelf. 
+
+[Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation by Yevgeniy Brikman of Gruntwork](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
