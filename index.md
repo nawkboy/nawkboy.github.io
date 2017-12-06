@@ -13,11 +13,6 @@ Prior to publishing the book I will likely change the layout, move to a custom d
 
 [James Carpenter's LinkedIn Profile](https://www.linkedin.com/in/jamescarpenter1/)
 
-# Reference Information
-
-[GetKanban Game Production Guide](reference_info/GetKanbanProductionGuide)
-
-[Self-Publishing Guidance](reference_info/SelfPublishingGuidance)
 
 # Reference Information By Chapter
 
@@ -41,7 +36,6 @@ Prior to publishing the book I will likely change the layout, move to a custom d
 
 [Chapter 10: Triage Guidelines](reference_by_chapter/TriageGuidelines)
 
-
 [Chapter 11: Ratcheting Definition of Done](reference_by_chapter/RatchetingDefinitionOfDone)
 
 [Chapter 12: Forecasting Releases](reference_by_chapter/ForcastingReleases)
@@ -59,5 +53,14 @@ Prior to publishing the book I will likely change the layout, move to a custom d
 [Chapter 18: Official Scrum Guide](reference_by_chapter/OfficalScrumGuide)
 
 [Chapter 19: Virtual Kanban](reference_by_chapter/VirtualKanban)
+
+
+# General Reference Information
+
+[GetKanban Game Production Guide](reference_info/GetKanbanProductionGuide)
+
+[Useful Construction Materials](http://forgingchange.com/reference_info/UsefulConstructionMaterials)
+
+[Self-Publishing Guidance](reference_info/SelfPublishingGuidance)
 
 
