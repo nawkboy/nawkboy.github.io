@@ -4,7 +4,7 @@ title: Terminology Definitions: Useful References
 
 # Terminology Definitions: Useful References
 
-# CI related Articles
+## CI related Articles
 
 [CI on a Dollar a Day by James Shore](http://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html)
 
