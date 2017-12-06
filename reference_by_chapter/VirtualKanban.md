@@ -2,6 +2,8 @@
 title: Virtual Kanban: Useful References
 ---
 
+# Virtual Kanban: Useful References
+
 [Complex Kanban Sequence](https://www.dropbox.com/s/deuooidw9vivpa9/ComplexKanbanSequence.pdf?dl=0)
 + Demonstrates card flow through a rather complex Virtual Kanban board.
 + Created as a slide show in PDF format.
