@@ -7,7 +7,7 @@ title: Virtual Kanban: Useful References
 # Producing GetKanban Game
 
 [GetKanban Production Guide](http://forgingchange.com/reference_info/GetKanbanProductionGuide)
-+ Provides instructions to help you more easily produce the free version of Russell Healy's fantastic GetKanban simulation game. There isn't a better way to learn Kanban basics. Buy the newest commercial version if you can afford it, otherwise use this guide to produce the free version in much less time than it originally took me to do so.
++ Provides instructions to help you more easily produce the free version of Russell Healy's fantastic GetKanban simulation game. There isn't a better way to learn Kanban basics. Buy the newest commercial version if you can afford it, otherwise use this guide to produce the free version in much less time than it originally took me.
 
 ## Various Other Reference Information
 
