@@ -4,6 +4,7 @@ title: Virtual Kanban: Useful References
 
 [Complex Kanban Sequence](https://www.dropbox.com/s/deuooidw9vivpa9/ComplexKanbanSequence.pdf?dl=0)
 + Demonstrates card flow through a rather complex Virtual Kanban board.
++ Created as a slide show in PDF format.
 
 [GetKanban Production Guide](http://forgingchange.com/reference_info/GetKanbanProductionGuide)
 + Provides instructions to help you more easily produce the free version of Russell Healy's fantastic GetKanban simulation game. There isn't a better way to learn Kanban basics. Buy the newest commercial version if you can afford it, otherwise use this guide to produce the free version in much less time than it originally took me to do so.
