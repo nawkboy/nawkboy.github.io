@@ -2,7 +2,9 @@
 title: Training Concerns: Useful References
 ---
 
-# Thiagi (Sivasailam Thiagarajan, Ph. D)
+# Training Concerns: Useful References
+
+## Thiagi (Sivasailam Thiagarajan, Ph. D)
 
 [Thiagi's Website](http://thiagi.com)
 
@@ -18,7 +20,7 @@ title: Training Concerns: Useful References
 + Thiagi has written a variety of books. This is the only one I own. I found the content generally useful although perhaps only marginally more useful than those listed at the Archived Games from TGL link above.
 
 
-# Bob Pike
+## Bob Pike
 
 [The Bob Pike Group](https://www.bobpikegroup.com/)
 
@@ -28,7 +30,7 @@ title: Training Concerns: Useful References
 
 [Creative Training Techniques Handbook: Tips, Tactics, and How-To's for Delivering Effective Training](https://www.amazon.com/gp/product/0874257239)
 
-# Sharon L Bowman
+## Sharon L Bowman
 
 [Sharon Bowman's website](http://bowperson.com/)
 
