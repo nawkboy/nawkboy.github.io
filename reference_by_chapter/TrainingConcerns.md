@@ -24,8 +24,6 @@ title: Training Concerns: Useful References
 
 [Collection of Videos by the Bob Pike Group](https://www.youtube.com/user/theBobPikeGroup/videos)
 
-["Increasing Retention" Presentation by Bob Pike discussing 7 ways people learn](https://www.youtube.com/watch?v=XwKNolr3a1A)
-
 [Seven Ways we Remember Anything](https://www.bobpikegroup.com/blog/learn-memory-techniques-to-boost-your-learning)
 
 [Creative Training Techniques Handbook: Tips, Tactics, and How-To's for Delivering Effective Training](https://www.amazon.com/gp/product/0874257239)
