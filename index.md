@@ -13,9 +13,9 @@ I am actively authoring a book on various aspects of effective large scale agile
 
 # Reference Information By Chapter
 
-[Chapter 1: Agile Deployment Models: Useful References](reference_by_chapter/AgileDeploymentModels)
+[Chapter 1: Agile Deployment Models](reference_by_chapter/AgileDeploymentModels)
 
-[Chapter 2: Agile Design Elements: Useful References](reference_by_chapter/AgileDesignElements)
+[Chapter 2: Agile Design Elements](reference_by_chapter/AgileDesignElements)
 
 [Chapter 3: Mgmt. Behaviors in Scrum](reference_by_chapter/MgmtBehaviorsInScrum)
 
