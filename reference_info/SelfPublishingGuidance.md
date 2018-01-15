@@ -42,7 +42,7 @@ by Garr Reynolds
 
 [Real World Color Management (2nd Edition)](https://www.amazon.com/Real-World-Color-Management-2nd/dp/0321267222) by Bruce Fraser, Chris Murphy, and Fred Bunting
 
-* My graphics are all vector graphics using a variation on a qualtative [ColorBrewer 2](http://colorbrewer2.org/#type=qualitative&scheme=Set1&n=5) derived color pallete. So far this has kept my color management needs to a minimum. If you have any significant number of photos or otherwise more complex color demands you will likely need to become compentent at color management. This is apparently the book for color management, even though it is dated.
+* My graphics are all vector graphics using a variation on a qualitative [ColorBrewer 2](http://colorbrewer2.org/#type=qualitative&scheme=Set1&n=5) color pallete. So far this has kept my color management needs to a minimum. If you have any significant number of photos or otherwise have more complex color demands you will likely need to become compentent at color management. This is apparently the book for color management, even though it is dated.
 
 
 # Example Books
