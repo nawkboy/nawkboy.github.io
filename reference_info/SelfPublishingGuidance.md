@@ -39,6 +39,12 @@ by Garr Reynolds
 
 * I didn't reference this book much at all while designing the book. Even so, I think having read it long ago helped prepare me for Robin William's design book.
 
+
+[Real World Color Management (2nd Edition)](https://www.amazon.com/Real-World-Color-Management-2nd/dp/0321267222) by Bruce Fraser, Chris Murphy, and Fred Bunting
+
+* My graphics are all vector graphics using a variation on a qualtative [ColorBrewer 2](http://colorbrewer2.org/#type=qualitative&scheme=Set1&n=5) derived color pallete. So far this has kept my color management needs to a minimum. If you have any significant number of photos or otherwise more complex color demands you will likely need to become compentent at color management. This is apparently the book for color management, even though it is dated.
+
+
 # Example Books
 
 As I started to study the art of book authorship, I found myself constantly looking at various books from a design perspective. As you study book design and start to design your own, it is very helpful to look at a variety of other examples. I mostly just thumbed through various books on my own bookshelf and examined the design decisions of professionally published books.
