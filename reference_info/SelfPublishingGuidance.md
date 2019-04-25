@@ -210,6 +210,7 @@ Here are some notes I made to myself when trying to figure out what tool to use 
 
 # References to Professional Book People
 
+
 * DeAnna Burghart
   - Freelance Editor
   - Houston, TX
@@ -219,7 +220,28 @@ Here are some notes I made to myself when trying to figure out what tool to use 
   - LinkedIn: [https://www.linkedin.com/in/deannaburghart/](https://www.linkedin.com/in/deannaburghart/)
   - Note: I was referred to DeAnna by a well known agile coach and author, who was initially referred to the first coach by yet another coach. I have nothing but wonderful things to say in my interactions to date.
 
+* Deb Tremper
+  - Freelance Designer
+  - Email: deb@sixpennygraphics.com
+  - Website: [http://sixpennygraphics.com/](http://sixpennygraphics.com/)
+  - Phone: 866.421.8872 ext. 101
+  - Fax: 866.630.2919
+  - Note: Designed my cover and also took care of interior design when I no longer had time to do it myself.
+ 
+* Linh Thoi
+  - Freelance eBook Designer
+  - Website: [https://lttebooks.com/](https://lttebooks.com/)
+  - Note: Did my e-book conversion for Kindle/Mobi and ePub.
+  
+* Susannah Noel
+  - Freelance Editor
+  - Website: https://noeleditorial.com/
+  - Note: DeAnna recommended her so I fully expect her to be extremely competent.
 
+* Molly McCowan
+  - Freelance Editor
+  - Website: https://inkbotediting.com
+  - Note: DeAnna recommended her so I fully expect her to be extremely competent.
 
 
 
