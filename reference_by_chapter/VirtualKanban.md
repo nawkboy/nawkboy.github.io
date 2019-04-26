@@ -30,4 +30,4 @@ title: Virtual Kanban: Useful References
     - Implement Feedback Loops
     - Improve Collaboratively, Evolve Experimentally (Using models & the scientific method)
 
-  + There is somewhat of an on-going conflict between the hard-core Scrum folks and the hard-core Kanban/Lean folks. The Scrum folks believe the entrenched behavior is so broken as to require re-setting the foundations. The Kanban/Lean folks believe one should model existing process and slowly evolve and improve. I believe both views have merit, and the two views can be mutually compatible.
+  + There is somewhat of an on-going conflict between the hard-core Scrum folks and the hard-core Kanban/Lean folks. The Scrum folks believe the entrenched behavior is so broken as to require re-setting the foundations. The Kanban/Lean folks believe one should model existing process and slowly evolve and improve. I believe both views have merit, and the two views can be mutually compatible. This conflict seems less heated over time.

@@ -37,3 +37,11 @@ title: Training Concerns: Useful References
 [Training From the Back of the Room!: 65 Ways to Step Aside and Let Them Learn by Sharon Bowman](https://www.amazon.com/Training-Back-Room-Aside-Learn/dp/0787996629)
 
 
+## Agile Retrospectives
+
+[Agile Retrospectives:Making Good Teams Great by Diana Lawsen and Ester Derby](https://www.amazon.com/dp/B00B03SRJW) has long been the standard catalog of various retrospective techniques. 
+
+
+## Liberating Structures
+
+[Liberating Structures](http://www.liberatingstructures.com/) provides another nicely currated set of retrospective style techniques.

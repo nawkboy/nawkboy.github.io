@@ -10,23 +10,35 @@ title: Agile Deployment Models: Useful References
 
 
 ## Kotter Change Model
-Explain Kotter Change Model is non-linear and provide a few links. Book, wikipedia, perhaps kotter website.
+
+In his book [Leading Change](https://www.kotterinc.com/book/leading-change/), [John Kotter](https://en.wikipedia.org/wiki/John_Kotter) puts forward a change model with the following stages:
+
+* Establishing a Sense of Urgency
+* Creating the Guiding Coalition
+* Developing a Vision and Strategy
+* Communicating the Change Vision
+* Empowering Employees for Broad-Based Action
+* Generating Short-Term Wins
+* Consolidating Gains and Producing More Change
+* Anchoring New Approaches in the Culture
+
+The model is typically presented as a set of linear stages. The key is to recognize real life is far more complex. At any moment there are variety of concurrent changes happening, each in its own place in the sequence. Furthermore, a given activity might be influencing change on a variety of dimensions, each with active changes at a separate stage in the Kotter change model. As George Box famously said "All models are wrong, but some are useful."
+
+The Kotter Change Model is a rather abstract change model intended for broad applicability to large variety of organizational change efforts. In contrast the change models discussed in Forging Change are specific to agile transformation efforts. So long as you open your mind to a less linear view of the Kotter change model, you will be able to recognize the Executive Pull Change Model described in Forging Change as a concrete realization of the Kotter Change Model. In other words, the Executive Pull Change Model is to the Kotter Change Model as a concrete Java class is to an interface it implements.
 
 ## Studio Change Model Links
 
 [Amazon: Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, and Leave Competitors in the Dust by Ken Schwaber  and Jeff Sutherland](https://www.amazon.com/Software-30-Days-Customers-Competitors/dp/1118206665)
 
-Dig up a few Scrum.org article on Studio model. Charles Bradley might have some good ones on scrumcrazy.com.
+[Scrum.org Studio Model](https://www.scrum.org/resources/scrum-studio-model-innovation)
 
-# Example Assessments?
+# Example Assessments
 
-Mine?
+[Agility Health Radar](https://agilityhealthradar.com/)
 
-Agility Radar
+[Huge list of various Agile Assessments](https://www.benlinders.com/tools/agile-self-assessments/)
 
-Big nasty list I have somewhere.
-
-
+If you are a client of Agile Carpentry, I would be happy to show you an example of agile assessment structures I have used in the past. In my personal experience it is generally better to have a skillful expert help you craft an assessment specific to your organizational needs. The Agility Health Radar is very nice and inspirational, yet it doesn't do anything one can't easily do in Tableau or even MS Excel just as effectively and likely at a far lower cost.
 
 ### Various Management Books
 

@@ -42,7 +42,7 @@ by Garr Reynolds
 
 [Real World Color Management (2nd Edition)](https://www.amazon.com/Real-World-Color-Management-2nd/dp/0321267222) by Bruce Fraser, Chris Murphy, and Fred Bunting
 
-* My graphics are all vector graphics using a variation on a qualitative [ColorBrewer 2](http://colorbrewer2.org/#type=qualitative&scheme=Set1&n=5) color pallete. So far this has kept my color management needs to a minimum. If you have any significant number of photos or otherwise have more complex color demands you will likely need to become compentent at color management. This is apparently the book for color management, even though it is dated.
+* My graphics are all vector graphics using a variation on a qualitative [ColorBrewer 2](http://colorbrewer2.org/#type=qualitative&scheme=Set1&n=5) color palette. So far this has kept my color management needs to a minimum. If you have any significant number of photos or otherwise have more complex color demands you will likely need to become competent at color management. This is apparently the book for color management, even though it is dated.
 
 
 # Example Books
@@ -67,9 +67,9 @@ A technical book with as narrow a focus as mine is extremely unlikely to be prof
 
 As you can see, the profit incentives of a traditional publisher are unlikely to ever be that well aligned with my own. There is a valid argument to be made for leveraging the clout of a publisher's brand to push my own, although that seems to matter less and less these days. Ultimately, I have decided the disadvantages of giving up control to a traditional publisher easily outweigh the advantages in my case.
 
-I still feel the services of industry professionals are very important, especially those of an editor. A critical distinction with self-publishing is the loyalities of these professionals will be to me, rather than to a traditional publisher. I have included references to professionals I have discovered and recommend farther down.
+I still feel the services of industry professionals are very important, especially those of an editor. A critical distinction with self-publishing is the loyalties of these professionals will be to me, rather than to a traditional publisher. I have included references to professionals I have discovered and recommend farther down.
 
-# Online Content
+# On-line Content
 
 I have also been consuming a lot of on-line articles related to book publishing. Here are some of those.
 
@@ -81,9 +81,19 @@ I have also been consuming a lot of on-line articles related to book publishing.
 
 ## POD Choices
 
-If you google a bit you will see tons of articles comparing the various POD choices. As a practical matter you will most likely end up using CreateSpace and IngramSpark. My current plan is to ensure my layout and trim size are compatible with both CreateSpace and IngramSpark requirements. I am using CreateSpace for the initial polishing stages due to their more novice friendly pricing and setup. When things are sufficiently polished and ready for publishing, I expect to use IngramSpark for producing premium hardcovers and a combination of CreateSpace and IngramSpark for soft-covers.
+If you google a bit you will see tons of articles comparing the various Print-On-Demand (POD) choices. As a practical matter you will most likely end up concurrently using Amazon's KDP and IngramSpark as they are the dominate players.
 
-If you prefer to use an author services company, BookBaby seems to be the most popular choice. By using referrals and ALLi's lists of vetted editors and designers, I expect my final product will be much better than what BookBaby is likely to produce. In other words, BookBaby is likely a decent easy choice although it is very unlikely to be the best choice.
+In my case I was very careful to ensure my layout and trim size were compatible with both KDP (previously CreateSpace) and IngramSpark requirements. I initially used CreateSpace for the initial polishing stages due to their more novice friendly pricing and setup. As things became sufficiently polished and closer to publishing also started leveraging IngramSpark.
+
+The ALLi discount code for IngramSpark will eliminate cost of uploading new interior and cover content, effectively removing the cost advantage of only using KDP during the initial development stages.
+
+If you prefer to use an author services company, BookBaby seems to be the most popular choice. By using referrals and ALLi's lists of vetted editors and designers, I believe my final product is likely much better than what BookBaby would have helped me produce. In other words, BookBaby is likely a decent easy choice although it is very unlikely to be the best choice.
+
+As long as you use the list of editors and designers below, I see very little downside to taking the same path I did. The publishing industry has radically changed. Experienced seasoned book designers are becoming exceptionally rare, and even fewer of them are working freelance. Finding the right people took several days of very hard active searching. The best of the author services companies and small publishers such as Pragmatic Programers know who these people are, but they won't tell.
+
+[Amazon KDP](https://kdp.amazon.com)
+
+[IngramSpark](https://www.ingramspark.com/)
 
 [IngramSpark vs. BookBaby vs. CreateSpace](http://goosebottombooks.com/goosetracks/ingram-spark-vs-bookbaby-vs-createspace/)
 
@@ -91,12 +101,24 @@ If you prefer to use an author services company, BookBaby seems to be the most p
 
 [Self-Publishing Basics: 5 Layout Mistakes that Make You Look Unprofessional - The Book Designer](https://www.thebookdesigner.com/2009/09/5-layout-mistakesr/)
 
-## Amazon POD: CreateSpace vs KDP
+## Other Good Book Printing Options
 
-Amazon has two input funnels to the same backend printing service. At this point in time it looks like it is generally best to use CreateSpace. I don't think Amazon is rapidly updating KDP as quickly as they claim, since nothing seems to have changed since the article below was written.
+I spent several days looking at the various book print houses available for very small volume digital book printing. Very few print houses can cost effectively produce a digitally printed book at volumes less than 250. The key names you need to know are listed below.
 
-[CreateSpace vs KDP](https://kindlepreneur.com/createspace-vs-kdp-print/)
+[Maple Press](http://www.maplepress.com/)
++ See [Digital Manufacturing Parameters](http://www.maplepress.com/documents/DigitalMfgParameters.pdf) for pricing and available design options.
++ No other printer I found comes anywhere close to providing the variety Maple Press can at an effective price for very low volume digital printing.
++ IngramSpark and KDP have print prices in the same ballpark, but without the same level of variety. This is especially true at larger trim sizes.
++ MaplePress can produce a dustjacket version for my 7.5" x 9.25" trim size book, which is something IngramSpark and KDP can't currently do.
++ So far their customer support has been fantastic.
 
+
+[Print Ninja](https://www.printninja.com/)
++ Asian print house providing cost effective offset printing with smyth sewn bindings for moderately low volumes.
++ The on-line estimation tool will quickly give you a good idea of what to expect for better offset printing costs.
++ If you constrain yourself to a black and white interior you may find an overseas offset print run is more effective than a short digital run. If you decide on a full color interior you will likely want to stay with a domestic digital print run.
++ Although digital printing has become extremely good, offset printing is still the gold standard. For a low volume trade book such as mine with mostly vector graphics and a few photos, modern digital printing is wonderful. If you are writing a cookbook with lots of high resolution photos, deciding between digital and offset printing at low volumes will be a much harder decision.
++ If you decide on an offset print run, you should definitely get quotes from a variety of domestic and overseas print houses. I expect they are all fairly competitive at larger volumes. Print Ninja will easily give you a good baseline for comparing alternatives. Guy Kawasaki's APE has a nice list of various print houses. ALLi has a similar listing available.
 
 ## Preparing a file for print
 
@@ -142,7 +164,6 @@ There are lots of considerations to picking a good trim size. One of the most im
 [IngramSpark trim size list](http://www.ingramspark.com/plan-your-book/print/trim-sizes?__hssc=243604698.1.1492709279520&__hstc=243604698.f569fbe9242bc9541c4f0110cc46d50d.1492709279519.1492709279519.1492709279519.1&__hsfp=3657549647&hsCtaTracking=54b36e6e-1853-454c-9eb3-0adeaf986f96%7Cfede1ee2-34ad-4592-984e-dcf341b60b85)
 
 Create Space supports the 7.5 x 9.25” color trim size I am using, even though their [dated layout guide](https://www.createspace.com/Products/Book/) doesn't list it. The moral of the story is to trust the web ordering forms on the POD websites for supported trim sizes, more than their layout guides.
-
 
 
 # Tooling Choices
@@ -226,12 +247,13 @@ Here are some notes I made to myself when trying to figure out what tool to use 
   - Website: [http://sixpennygraphics.com/](http://sixpennygraphics.com/)
   - Phone: 866.421.8872 ext. 101
   - Fax: 866.630.2919
-  - Note: Designed my cover and also took care of interior design when I no longer had time to do it myself.
+  - Note: Designed my cover and also took care of interior design when I no longer had time to do it myself. It was a pleasure working with Deb.
  
 * Linh Thoi
   - Freelance eBook Designer
   - Website: [https://lttebooks.com/](https://lttebooks.com/)
-  - Note: Did my e-book conversion for Kindle/Mobi and ePub.
+  - Note: Did my e-book conversion for Kindle/Mobi and ePub. Linh is one of the most experienced e-book designers you are likely to find, and very reasonably priced.
+  - Note: The challenge isn't creating an e-book. The challenge is producing an e-book which works well on a large number of devices and avoids or at least minimizes the deficiencies of the various e-book readers. Unless you intend to make a large number of e-books, the learning curve isn't worth the effort. Just pay Linh and be done with it. 
   
 * Susannah Noel
   - Freelance Editor
@@ -242,6 +264,14 @@ Here are some notes I made to myself when trying to figure out what tool to use 
   - Freelance Editor
   - Website: https://inkbotediting.com
   - Note: DeAnna recommended her so I fully expect her to be extremely competent.
+
+* Amy Vaughn
+  - Soundview Design Studio
+  - Website: www.soundviewdesign.com
+  - Phone: (425)776-5830
+  - Email: amy@soundviewdesign.com
+  - Address: 8508 Talbot Road, Edmonds, WA  98026
+  - Note: I was referred to both Deb Tremper and Amy Vaughn by Jennifer Riemenschneider who is a sales person working at Sheridan. Based on well Deb Tremper turned out, I expect Amy Vaughn is also very professional.
 
 
 

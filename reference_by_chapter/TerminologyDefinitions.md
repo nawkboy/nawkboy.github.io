@@ -10,6 +10,13 @@ title: Terminology Definitions: Useful References
 
 [Continuous Integration by Martin Fowler](http://www.martinfowler.com/articles/continuousIntegration.html)
 
+## Relevant Books
+
+[Infrastructure as Code: Managing Servers in the Cloud by Kief Morris](https://www.amazon.com/dp/B01GUG9ZNU/)
++ This is a fantastic book for gaining an overall exposure to the various pieces of a continuous delivery build pipeline. Any team considering building out a new continous delivery build pipeline should read this book cover to cover before making any long-term tooling decisions.
+
+[Continous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley)(https://www.amazon.com/dp/B003YMNVC0)
++ Although the tool choices are very dated, the overall intentions are better explained than they are in Infrastructure as Code. In contrast, when looking at tool choices forget Continuous Delivery and read Infrastructure as Code.
 
 ## Various Infrastructure as Code Tools
 
@@ -24,7 +31,7 @@ The tooling landscape around continuous delivery has evolved quite a bit and con
 [SaltStack](https://saltstack.com/)
 
 [Terraform](https://www.terraform.io/intro/vs/index.html)
-+ I believe Terraform understands the overall deployment topology and provides cross-node orchestration, leaving the node specific details to Puppet, Ansible and the like.
++ Terraform understands the overall deployment topology and provides cross-node orchestration, leaving the node specific details to Chef, Puppet, Ansible and the like.
 
 [Kubernetes](https://kubernetes.io/)
 + Although not strictly an Infrastructure As Code tool, some of what is done with Terraform can alternatively be done using a Docker orchestration framework such as Kubernetes or Docker Swarm.
