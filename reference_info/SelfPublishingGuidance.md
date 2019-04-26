@@ -120,20 +120,6 @@ I spent several days looking at the various book print houses available for very
 + Although digital printing has become extremely good, offset printing is still the gold standard. For a low volume trade book such as mine with mostly vector graphics and a few photos, modern digital printing is wonderful. If you are writing a cookbook with lots of high resolution photos, deciding between digital and offset printing at low volumes will be a much harder decision.
 + If you decide on an offset print run, you should definitely get quotes from a variety of domestic and overseas print houses. I expect they are all fairly competitive at larger volumes. Print Ninja will easily give you a good baseline for comparing alternatives. Guy Kawasaki's APE has a nice list of various print houses. ALLi has a similar listing available.
 
-## Preparing a file for print
-
-Turns out creating a file for POD within InDesign is a bit tricky, with a myraid possible options. Here are a few useful articles I have found.
-
-[Creating A PDF for Lightning Source in InDesign](https://www.thebookdesigner.com/2009/11/creating-a-pdf-for-lightning-source-in-indesign-part-3/)
-
-[Ingram Page talking about preparing files](https://www.ingramcontent.com/publishers/resources/digital-bookblock#standardBooks)
-
-[Preparing files for CreateSpace](http://www.williamswriting.com/2014/preparing-files-for-createspace/)
-
-[Better POD Color](http://www.newselfpublishing.com/BetterColor.html)
-
-[Why it is best to use RGB when supplying POD providers](http://www.newselfpublishing.com/blog/index.html#RGB)
-
 
 ## QR Code Related Content
 
@@ -229,8 +215,22 @@ Here are some notes I made to myself when trying to figure out what tool to use 
   - Has built-in styles (easy although not always pretty)
   - Devil I know
 
-# References to Professional Book People
+## Preparing a file for print
 
+Turns out creating a file for POD within InDesign is a bit tricky, with a myraid possible options. Here are a few useful articles I have found.
+
+[Creating A PDF for Lightning Source in InDesign](https://www.thebookdesigner.com/2009/11/creating-a-pdf-for-lightning-source-in-indesign-part-3/)
+
+[Ingram Page talking about preparing files](https://www.ingramcontent.com/publishers/resources/digital-bookblock#standardBooks)
+
+[Preparing files for CreateSpace](http://www.williamswriting.com/2014/preparing-files-for-createspace/)
+
+[Better POD Color](http://www.newselfpublishing.com/BetterColor.html)
+
+[Why it is best to use RGB when supplying POD providers](http://www.newselfpublishing.com/blog/index.html#RGB)
+
+
+# References to Professional Book People
 
 * DeAnna Burghart
   - Freelance Editor
