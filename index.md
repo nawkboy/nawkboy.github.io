@@ -22,7 +22,7 @@ Forging Change provides a well of tested information, models, and examples that 
 
 # Book Formats
 
-I am publishing the book in paperback, casewrap laminate hardcover, and e-book format using a combination of Amazon and IngramSpark.
+I am publishing the book in paperback, hardcover, and e-book format using a combination of Amazon and IngramSpark.
 
 The ISBNs are as follows:
 
@@ -30,11 +30,11 @@ The ISBNs are as follows:
     - Amazon copies printed by Amazon.
     - All other copies printed by IngramSpark and distributed worldwide.
     - Both the Amazon and IngramSpark versions show up on Amazon.
-    - The Amazon version is slightly less expensive and comes with a free Kindle version.
+    - The Amazon printed paperback is slightly less expensive and comes with a free copy of the Kindle e-book.
 * Hardcover: 978-1-7328751-1-1
     - Printed by IngramSpark and distributed worldwide.
 * EBook: 978-1-7328751-2-8
-    - EPub format distributed worldwide by IngramSpark.
+    - ePub format distributed worldwide by IngramSpark. If you buy the e-book from Apple or Barnes & Noble, it will be the ePub format you are buying.
     - Kindle format distributed directly by Amazon.
 * Cloth Hardcover with dust jacket: 978-1-7328751-3-5
     - Nicest print version available.
