@@ -257,17 +257,17 @@ Here are some notes I made to myself when trying to figure out what tool to use 
   
 * Susannah Noel
   - Freelance Editor
-  - Website: https://noeleditorial.com/
+  - Website: [https://noeleditorial.com/](https://noeleditorial.com/)
   - Note: DeAnna recommended her so I fully expect her to be extremely competent.
 
 * Molly McCowan
   - Freelance Editor
-  - Website: https://inkbotediting.com
+  - Website: [https://inkbotediting.com](https://inkbotediting.com)
   - Note: DeAnna recommended her so I fully expect her to be extremely competent.
 
 * Amy Vaughn
   - Soundview Design Studio
-  - Website: www.soundviewdesign.com
+  - Website: [http://www.soundviewdesign.com](http://www.soundviewdesign.com)
   - Phone: (425)776-5830
   - Email: amy@soundviewdesign.com
   - Address: 8508 Talbot Road, Edmonds, WA  98026
