@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 # Book Links
 
 [My Author Page on Amazon](https://amazon.com/author/jamesleecarpenter)
