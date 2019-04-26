@@ -121,22 +121,6 @@ I spent several days looking at the various book print houses available for very
 + If you decide on an offset print run, you should definitely get quotes from a variety of domestic and overseas print houses. I expect they are all fairly competitive at larger volumes. Print Ninja will easily give you a good baseline for comparing alternatives. Guy Kawasaki's APE has a nice list of various print houses. ALLi has a similar listing available.
 
 
-## QR Code Related Content
-
-[What size should a QR Code be](https://blog.qrstuff.com/2011/01/18/what-size-should-a-qr-code-be)
-
-[QR Code Data Density](http://blog.qr4.nl/page/QR-Code-Data-Capacity.aspx)
-
-[More QR Code stuff, including how to easily visually tell error correction level](https://blog.qrstuff.com/2011/12/14/qr-code-error-correction)
-
-[Online QR Code Reader which reports data density, although not error level](https://online-barcode-reader.inliteresearch.com/)
-
-[ZXing Decoder](https://zxing.org/w/decode.jspx)
-
-[QR code builder useful for experimenting](https://www.qrstuff.com/)
-
-[Built-In QR Code capability within InDesign](https://helpx.adobe.com/indesign/using/generate-qr-code.html)
-
 # Trim Size
 
 There are lots of considerations to picking a good trim size. One of the most important is picking a common trim size most POD providers can handle. Here are some notes of mine on this topic. I recommend you **pay the most attention to sizes which both CreateSpace and IngramSpark support** as these are the leaders in the space.
@@ -228,6 +212,23 @@ Turns out creating a file for POD within InDesign is a bit tricky, with a myraid
 [Better POD Color](http://www.newselfpublishing.com/BetterColor.html)
 
 [Why it is best to use RGB when supplying POD providers](http://www.newselfpublishing.com/blog/index.html#RGB)
+
+
+## QR Code Related Content
+
+[What size should a QR Code be](https://blog.qrstuff.com/2011/01/18/what-size-should-a-qr-code-be)
+
+[QR Code Data Density](http://blog.qr4.nl/page/QR-Code-Data-Capacity.aspx)
+
+[More QR Code stuff, including how to easily visually tell error correction level](https://blog.qrstuff.com/2011/12/14/qr-code-error-correction)
+
+[Online QR Code Reader which reports data density, although not error level](https://online-barcode-reader.inliteresearch.com/)
+
+[ZXing Decoder](https://zxing.org/w/decode.jspx)
+
+[QR code builder useful for experimenting](https://www.qrstuff.com/)
+
+[Built-In QR Code capability within InDesign](https://helpx.adobe.com/indesign/using/generate-qr-code.html)
 
 
 # References to Professional Book People
