@@ -38,7 +38,7 @@ The Kotter Change Model is a rather abstract change model intended for broad app
 
 [Huge list of various Agile Assessments](https://www.benlinders.com/tools/agile-self-assessments/)
 
-If you are a client of Agile Carpentry, I would be happy to show you an example of agile assessment structures I have used in the past. In my personal experience it is generally better to have a skillful expert help you craft an assessment specific to your organizational needs. The Agility Health Radar is very nice and inspirational, yet it doesn't do anything one can't easily do in Tableau or even MS Excel just as effectively and likely at a far lower cost.
+If you are a client of Agile Carpentry, I will be happy to show you an example of agile assessment structures I have used in the past. In my personal experience it is generally better to have a skillful expert help you craft an assessment specific to your organizational needs. The Agility Health Radar is very nice and inspirational, yet it doesn't do anything one can't do in Tableau or MS Excel just as effectively and typically at a lower cost.
 
 ### Various Management Books
 
