@@ -2,13 +2,54 @@
 layout: default
 ---
 
-# Introduction
+# Book Links
 
-I am actively authoring a book on various aspects of effective large scale agile adoptions. I am generally trying to avoid restating what others have already written about, and instead intend to refer readers to external content whenever it makes sense. This site gives me a place to organize this external content and references to the same.
+[My Author Page on Amazon](https://amazon.com/author/jamesleecarpenter)
+
+
+# Book Description
+
+Implementing agile at scale starts with the right management attitudes and structures, but it doesn’t stop there. The waterfall mindset is often deeply embedded, and successful agile transformation requires a new understanding of how your organization works, not just a new set of processes for a few teams.
+
+In Forging Change, James Carpenter cuts through the noise that often surrounds large- scale agile transformations to explain how agile theories play out in the real world. Part 1 focuses on agile deployment challenges, including different ways to spread the agile mindset and management practices that are crucial to success. In Part 2, he has assembled a collection of conceptual models, practical techniques, and real-world examples showing how healthy agile processes work in large organizations. These techniques will help you establish a real change in mindset, not just terminology.
+
+* Push higher quality standards by ratcheting your definition of Done.
+* Forecast releases for business use without violating agile principles.
+* Encourage automated unit testing and other aspects of improved craftsmanship.
+* Select the right Scrum Master when you can’t upend the organizational chart yet.
+
+Forging Change provides a well of tested information, models, and examples that address these and other common challenges. The result is a dependable, practical resource you will turn to again and again as you work to achieve positive, lasting organizational change.
+
+# Book Formats
+
+I am publishing the book in paperback, casewrap laminate hardcover, and e-book format using a combination of Amazon and IngramSpark.
+
+The ISBNs are as follows:
+
+* Paperback: 978-1-7328751-0-4
+    - Amazon copies printed by Amazon.
+    - All other copies printed by IngramSpark and distributed worldwide.
+    - Both the Amazon and IngramSpark versions show up on Amazon.
+    - The Amazon version is slightly less expensive and comes with a free Kindle version.
+* Hardcover: 978-1-7328751-1-1
+    - Printed by IngramSpark and distributed worldwide.
+* EBook: 978-1-7328751-2-8
+    - EPub format distributed worldwide by IngramSpark.
+    - Kindle format distributed directly by Amazon.
+* Cloth Hardcover with dust jacket: 978-1-7328751-3-5
+    - Nicest print version available.
+    - Only available by special request, typically in quantities of 25 or more.
+    - Please contact me directly at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) for details.
+
+Ingram is one of the world's largest book distributors. You should be able to visit almost any physical or online bookstore in the world and order an IngramSpark distributed version of the book. It may take until the end of May 2019 before the book works its way through the various inventory and order management systems.
 
 # Author Information
 
+[Agile Carpentry](http://agilecarpentry.com/)
+
 [James Carpenter's LinkedIn Profile](https://www.linkedin.com/in/jamescarpenter1/)
+
+[Email: james@agilecarpentry.com](mailto:james@agilecarpentry.com)
 
 
 # Reference Information By Chapter
