@@ -15,7 +15,7 @@ title: Terminology Definitions: Useful References
 [Infrastructure as Code: Managing Servers in the Cloud by Kief Morris](https://www.amazon.com/dp/B01GUG9ZNU/)
 + This is a fantastic book for gaining an overall exposure to the various pieces of a continuous delivery build pipeline. Any team considering building out a new continous delivery build pipeline should read this book cover to cover before making any long-term tooling decisions.
 
-[Continous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley)(https://www.amazon.com/dp/B003YMNVC0)
+[Continous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble and David Farley](https://www.amazon.com/dp/B003YMNVC0)
 + Although the tool choices are very dated, the overall intentions are better explained than they are in Infrastructure as Code. In contrast, when looking at tool choices forget Continuous Delivery and read Infrastructure as Code.
 
 ## Various Infrastructure as Code Tools

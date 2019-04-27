@@ -7,6 +7,7 @@ layout: default
 
 [My Author Page on Amazon](https://amazon.com/author/jamesleecarpenter)
 
+[Barnes & Noble](https://www.barnesandnoble.com/w/forging-change-james-carpenter/1131292341?ean=9781732875111)
 
 # Book Description
 
