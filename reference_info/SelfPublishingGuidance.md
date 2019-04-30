@@ -118,7 +118,21 @@ I spent several days looking at the various book print houses available for very
 + The on-line estimation tool will quickly give you a good idea of what to expect for better offset printing costs.
 + If you constrain yourself to a black and white interior you may find an overseas offset print run is more effective than a short digital run. If you decide on a full color interior you will likely want to stay with a domestic digital print run.
 + Although digital printing has become extremely good, offset printing is still the gold standard. For a low volume trade book such as mine with mostly vector graphics and a few photos, modern digital printing is wonderful. If you are writing a cookbook with lots of high resolution photos, deciding between digital and offset printing at low volumes will be a much harder decision.
-+ If you decide on an offset print run, you should definitely get quotes from a variety of domestic and overseas print houses. I expect they are all fairly competitive at larger volumes. Print Ninja will easily give you a good baseline for comparing alternatives. Guy Kawasaki's APE has a nice list of various print houses. ALLi has a similar listing available.
++ If you decide on an offset print run, you should definitely get quotes from a variety of domestic and overseas print houses. I expect they are all fairly competitive at larger volumes. Print Ninja will easily give you a good baseline for comparing alternatives.
+
+
+# Lists of Various Printers and Other Resources
+
+* [Aeonix Book Printers List](http://www.aeonix.com/bookprnt.htm)
+  + Many of the printers listed are no longer in existance.
+
+* [Best and Worst Self-Publishing Services Reviewed & Rated by the Alliance of Independent Authors](https://selfpublishingadvice.org/allis-self-publishing-service-directory/self-publishing-service-reviews/)
+
+* [Raven Book Design: Useful links](https://www.fionaraven.com/resources/useful-links/)
+
+* [The Top 200 Book Printers](http://bookmarketingbestsellers.com/the-top-250-book-printers/)
+  + Almost impossibly large list.
+  + A large number of the printers are surely out of business by now.
 
 
 # Trim Size
