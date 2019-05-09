@@ -4,11 +4,11 @@ title: Estimating Business Value: Useful References
 
 # Estimating Business Value: Useful References
 
-[Prioritize your backlog: Use Weighted Shortest Job First (WSJF) for improved ROI by Matthew Heusser](https://techbeacon.com/prioritize-your-backlog-weighted-shortest-job-first-wsjf-improved-roi)
+[Prioritize your backlog: Use Weighted Shortest Job First (WSJF) for improved ROI](https://techbeacon.com/app-dev-testing/prioritize-your-backlog-use-weighted-shortest-job-first-wsjf-improved-roi), by Matthew Heusser
 
 
-### Well Known Experts on agile product management
+### Well Known Experts on Agile Product Management
 
-[Jeff Patton](http://jpattonassociates.com/blog/)
+[Jeff Patton](https://www.jpattonassociates.com/blog/)
 
-[Roman Pichler](http://www.romanpichler.com/)
+[Roman Pichler](https://www.romanpichler.com/)
