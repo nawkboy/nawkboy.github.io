@@ -1,1 +1,1 @@
-reference_by_chapter/OfficalScrumGuide.md
+reference_by_chapter/OfficialScrumGuide.md
