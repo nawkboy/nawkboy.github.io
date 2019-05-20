@@ -8,7 +8,7 @@ title: "Agile Design Elements: Useful References"
 
 [Official Scrum Guide](https://scrumguides.org/)
 
-## Agile Process Is Designed For Complex Work
+## Agile Process Is Designed for Complex Work
 
 [Cynefin Framework verses Stacey Matrix versus network perspectives](http://mandenews.blogspot.com/2010/08/test3.html)
 
