@@ -29,6 +29,6 @@ A few random relevant articles:
 
 [StandardStoryPoints](https://martinfowler.com/bliki/StandardStoryPoints.html) by Martin Fowler discusses the dangers of trying to align story point values across teams.
 
-I believe Fowler’s points are correct for teams which would otherwise be working completely independently, enabled via independent code bases or good continuous delivery behaviors. For teams working against a shared product backlog who must collaboratively conduct refinement, having some common sizing guidelines within the collaborating teams can be useful.
+I believe Fowler's points are correct for teams which would otherwise be working completely independently, enabled via independent code bases or good continuous delivery behaviors. For teams working against a shared product backlog who must collaboratively conduct refinement, having some common sizing guidelines within the collaborating teams can be useful.
 
-As discussed in my chapter on “Agile Design Elements,” please never forget that treating effort estimates as commitments will completely destroy quality, morale, transparency, and forecast accuracy.
+As discussed in my chapter on "Agile Design Elements," please never forget that treating effort estimates as commitments will completely destroy quality, morale, transparency, and forecast accuracy.
