@@ -4,12 +4,12 @@ title: "User Story Ruler: Useful References"
 
 # User Story Ruler: Useful References
 
-Affinity estimation, user story rulers, and reference stories are very closely related concepts. I frequently see these described using a variety of terminology. To my mind, there isn’t any significant danger of differing terminology causing significant confusion in this case, so I am happy with almost any terms people find useful. (I would never say this of a term such as “unit testing” in which lack of common understanding can be very problematic.)
+Affinity estimation, user story rulers, and reference stories are very closely related concepts. I frequently see these described using a variety of terminology. To my mind, there isn’t any significant danger of differing terminology causing significant confusion in this case, so I am happy with almost any terms people find useful. (I would never say this of a term such as “unit testing,” where lack of common understanding can be very problematic.)
 
 Relevant Google search terms which might be useful for you:
 
  * Affinity Estimation
- * White Elephant Sizing (also: Elephant Board)
+ * White Elephant Sizing (*also* Elephant Board)
  * User Story Ruler
  * Reference User Story
 
