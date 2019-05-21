@@ -8,7 +8,7 @@ Article on [Cross-Team Refinement](https://www.scrum.org/resources/cross-team-re
 
 + The approach I described in the book provides a little more formalization, which should prove helpful when coordinating across a larger group. In other regards, it is roughly identical to the process described by Rob Maher and Patricia Kong.
 
-[Visualizing the Nexus Sprint Backlog](https://www.scrum.org/resources/visualizing-nexus-sprint-backlog) by Rob Maher and Patricia Kong
+[Visualizing the Nexus Sprint Backlog](https://www.scrum.org/resources/visualizing-nexus-sprint-backlog), by Rob Maher and Patricia Kong
 
 + This article is closely related to their "Cross-Team Refinement" article and resonates with my "Sprint Alignment Wall" chapter. 
 
