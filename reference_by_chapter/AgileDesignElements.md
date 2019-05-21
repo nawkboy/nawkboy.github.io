@@ -59,7 +59,7 @@ The 18-minute portion of the relevant Eli Goldratt lecture can be found here:
 + CD Set: **Disk 3, Track 1 @ 2m 55s**
 
 **Message for LLC Gildan Media:** 
-I have created a transcript of this 18-minute section that I would like to share here if you are willing to grant me permission to do so. Please reach out to me at james at agilecarpentry dot com.
+I have created a transcript of this 18-minute section that I would like to share here if you are willing to grant me permission to do so. Please reach out to me at [james@agilecarpentry.com](mailto:james@agilecarpentry.com).
 
 #### Danger of Treating Estimates as Commitments with Different Terminology
 
