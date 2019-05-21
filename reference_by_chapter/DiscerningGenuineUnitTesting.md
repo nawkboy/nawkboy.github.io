@@ -5,7 +5,7 @@ title: "Discerning Genuine Unit Testing: Useful References"
 # Discerning Genuine Unit Testing: Useful References
 
 [Economy of Tests](http://verraes.net/2015/01/economy-of-tests/), by Mathias Verraes 
-+ This article provides a nice, nuanced view of the advantages and disadvantages of each level of testing in the test pyramid. I particularly like how the author explains how the challenges of testing legacy code influence the compromises involved.
++ This is a nice article that provides a nuanced view of the advantages and disadvantages of each level of testing in the test pyramid. I particularly like the way the author explains how the challenges of testing legacy code influence the compromises involved.
 
 
 [UnitTest](https://martinfowler.com/bliki/UnitTest.html), by Martin Fowler
