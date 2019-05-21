@@ -5,7 +5,7 @@ layout: default
 
 # Book Links
 
-[My Author Page on Amazon](https://amazon.com/author/jamesleecarpenter)
+[My author page on Amazon](https://www.amazon.com/author/jamesleecarpenter)
 
 [Barnes & Noble](https://www.barnesandnoble.com/w/forging-change-james-carpenter/1131292341?ean=9781732875111)
 
@@ -13,14 +13,14 @@ layout: default
 
 Implementing agile at scale starts with the right management attitudes and structures, but it doesn’t stop there. The waterfall mindset is often deeply embedded, and successful agile transformation requires a new understanding of how your organization works, not just a new set of processes for a few teams.
 
-In Forging Change, James Carpenter cuts through the noise that often surrounds large- scale agile transformations to explain how agile theories play out in the real world. Part 1 focuses on agile deployment challenges, including different ways to spread the agile mindset and management practices that are crucial to success. In Part 2, he has assembled a collection of conceptual models, practical techniques, and real-world examples showing how healthy agile processes work in large organizations. These techniques will help you establish a real change in mindset, not just terminology.
+In *Forging Change*, James Carpenter cuts through the noise that often surrounds large-scale agile transformations to explain how agile theories play out in the real world. Part 1 focuses on agile deployment challenges, including different ways to spread the agile mindset and management practices that are crucial to success. In Part 2, he has assembled a collection of conceptual models, practical techniques, and real-world examples showing how healthy agile processes work in large organizations. These techniques will help you establish a real change in mindset, not just terminology.
 
 * Push higher quality standards by ratcheting your definition of Done.
 * Forecast releases for business use without violating agile principles.
 * Encourage automated unit testing and other aspects of improved craftsmanship.
 * Select the right Scrum Master when you can’t upend the organizational chart yet.
 
-Forging Change provides a well of tested information, models, and examples that address these and other common challenges. The result is a dependable, practical resource you will turn to again and again as you work to achieve positive, lasting organizational change.
+*Forging Change* provides a well of tested information, models, and examples that address these and other common challenges. The result is a dependable, practical resource you will turn to again and again as you work to achieve positive, lasting organizational change.
 
 # Book Formats
 
@@ -35,36 +35,36 @@ The ISBNs are as follows:
     - The Amazon printed paperback is slightly less expensive and comes with a free copy of the Kindle e-book.
 * Hardcover: 978-1-7328751-1-1
     - Printed by IngramSpark and distributed worldwide.
-* EBook: 978-1-7328751-2-8
-    - ePub format distributed worldwide by IngramSpark. If you buy the e-book from Apple or Barnes & Noble, it will be the ePub format you are buying.
+* E-book: 978-1-7328751-2-8
+    - ePub format distributed worldwide by IngramSpark. If you buy the e-book from Apple or Barnes & Noble, it will be the ePub format.
     - Kindle format distributed directly by Amazon.
-* Cloth Hardcover with dust jacket: 978-1-7328751-3-5
+* Cloth hardcover with dust jacket: 978-1-7328751-3-5
     - Nicest print version available.
     - Only available by special request, typically in quantities of 25 or more.
     - Please contact me directly at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) for details.
 
-Ingram is one of the world's largest book distributors. You should be able to visit almost any physical or online bookstore in the world and order an IngramSpark distributed version of the book. It may take until the end of May 2019 before the book works its way through the various inventory and order management systems.
+Ingram is one of the world’s largest book distributors. You should be able to visit almost any physical or online bookstore in the world and order an IngramSpark distributed version of the book.
 
 # Author Information
 
 [Agile Carpentry](http://agilecarpentry.com/)
 
-[James Carpenter's LinkedIn Profile](https://www.linkedin.com/in/jamescarpenter1/)
+[James Carpenter’s LinkedIn profile](https://www.linkedin.com/in/jamescarpenter1/)
 
 [Email: james@agilecarpentry.com](mailto:james@agilecarpentry.com)
 
 
-# Reference Information By Chapter
+# Reference Information by Chapter
 
 [Chapter 1: Agile Deployment Models](reference_by_chapter/AgileDeploymentModels)
 
 [Chapter 2: Agile Design Elements](reference_by_chapter/AgileDesignElements)
 
-[Chapter 3: Mgmt. Behaviors in Scrum](reference_by_chapter/MgmtBehaviorsInScrum)
+[Chapter 3: Management Behaviors in Scrum](reference_by_chapter/MgmtBehaviorsInScrum)
 
 [Chapter 4: Estimating Business Value](reference_by_chapter/EstimatingBusinessValue)
 
-[Chapter 5: Progressive Refinement At Scale](reference_by_chapter/ProgressiveRefinementAtScale)
+[Chapter 5: Progressive Refinement at Scale](reference_by_chapter/ProgressiveRefinementAtScale)
 
 [Chapter 6: Sprint Alignment Wall](reference_by_chapter/SprintAlignmentWall)
 
@@ -97,9 +97,9 @@ Ingram is one of the world's largest book distributors. You should be able to vi
 
 # General Reference Information
 
-[GetKanban Game Production Guide](reference_info/GetKanbanProductionGuide)
+[getKanban Game Production Guide](reference_info/GetKanbanProductionGuide)
 
-[Useful Construction Materials](http://forgingchange.com/reference_info/UsefulConstructionMaterials)
+[Useful Construction Materials](/reference_info/UsefulConstructionMaterials)
 
 [Self-Publishing Guidance](reference_info/SelfPublishingGuidance)
 
