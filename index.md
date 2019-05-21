@@ -78,7 +78,7 @@ Ingram is one of the world's largest book distributors. You should be able to vi
 
 [Chapter 11: Ratcheting Definition of Done](reference_by_chapter/RatchetingDefinitionOfDone)
 
-[Chapter 12: Forecasting Releases](reference_by_chapter/ForcastingReleases)
+[Chapter 12: Forecasting Releases](reference_by_chapter/ForecastingReleases)
 
 [Chapter 13: Discerning Genuine Unit Testing](reference_by_chapter/DiscerningGenuineUnitTesting)
 
@@ -90,7 +90,7 @@ Ingram is one of the world's largest book distributors. You should be able to vi
 
 [Chapter 17: Scrum Diagrams](reference_by_chapter/ScrumDiagrams)
 
-[Chapter 18: Official Scrum Guide](reference_by_chapter/OfficalScrumGuide)
+[Chapter 18: Official Scrum Guide](reference_by_chapter/OfficialScrumGuide)
 
 [Chapter 19: Virtual Kanban](reference_by_chapter/VirtualKanban)
 
