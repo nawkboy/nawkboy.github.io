@@ -17,7 +17,7 @@ title: "Training Concerns: Useful References"
 + These are the ones I like the most, likely because they are the ones I originally spent a lot of time reading through before they changed the website.
 
 [*Design Your Own Games and Activities: Thiagi's Templates for Performance Improvement*](https://www.amazon.com/gp/product/0787964654)
-+ Thiagi has written a variety of books. This is the only one I own. I found the content generally useful although perhaps only marginally more useful than those listed at the "Archived Games from TGL" link above.
++ Thiagi has written many books. This is the only one I own. I found the content generally useful although perhaps only marginally more useful than those listed at the "Archived Games from TGL" link above.
 
 
 ## Bob Pike
@@ -39,7 +39,7 @@ title: "Training Concerns: Useful References"
 
 ## Agile Retrospectives
 
-[*Agile Retrospectives: Making Good Teams Great*](https://www.amazon.com/dp/B00B03SRJW), by Diana Lawsen and Ester Derby, has long been the standard catalog of various retrospective techniques. 
+[*Agile Retrospectives: Making Good Teams Great*](https://www.amazon.com/dp/B00B03SRJW), by Diana Lawsen and Ester Derby, has long been the standard catalog of retrospective techniques. 
 
 
 ## Liberating Structures
