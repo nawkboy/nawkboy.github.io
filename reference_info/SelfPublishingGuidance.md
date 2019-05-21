@@ -129,7 +129,7 @@ I spent several days looking at the various book print houses available for very
 
 # Trim Size
 
-There are lots of considerations to picking a good trim size. One of the most important is picking a common trim size most POD providers can handle. Here are some of my notes on this topic. I recommend you **pay the most attention to sizes that both CreateSpace and IngramSpark support**, as they are the leaders in the space.
+There are lots of considerations to picking a good trim size. One of the most important is picking a common trim size most POD providers can handle. Here are some of my notes on this topic. I recommend you **pay the most attention to sizes that both Amazon KDP and IngramSpark support**, as they are the leaders in the space.
 
 [Great list with discussion](https://www.thebookdesigner.com/book-sizes/)
 
@@ -139,7 +139,7 @@ There are lots of considerations to picking a good trim size. One of the most im
 
 [IngramSpark trim size list](https://www.ingramspark.com/plan-your-book/print/trim-sizes)
 
-CreateSpace supports the 7.5" x 9.25" color trim size I am using, even though their [dated layout guide](https://www.createspace.com/Products/Book/) doesn't list it. The moral of the story is to trust the web ordering forms on the POD websites for supported trim sizes more than their layout guides.
+Amazon KDP supports the 7.5" x 9.25" color trim size I am using, even though the layout guide document didn't list it. The moral of the story is to trust the web ordering forms on the POD websites for supported trim sizes more than their layout guides.
 
 
 # Tooling Choices
@@ -148,7 +148,7 @@ In the end, I decided to author draft chapters in a basic text editor, quickly t
 
 The decision to perform the initial interior design myself was extremely expensive in terms of time. As an agile coach, I now spend a significant amount of my time creating written material for training and marketing purposes. I anticipate my improved proficiency in typography and design will be useful to me in these other efforts. These other concerns, as well as the strong interplay between the text and graphics in my book, helped justify the expected and actual learning curve in my case. I still had a design professional QA and refine my work. If the book were almost entirely text, my decisions would likely have been different.
 
-As to Kindle and other ebook formats, I decided it would be best to throw it over the wall for conversion. CreateSpace and others can do this for a few hundred dollars, which is far cheaper than the ramp-up time to become proficient at doing this myself. I eventually located a talented e-book designer, Linh Thoi, who provided excellent results.
+As to Kindle and other ebook formats, I decided it would be best to throw it over the wall for conversion. Author services companies can do this for a few hundred dollars, which is far cheaper than the ramp-up time to become proficient at doing this myself. I eventually located a talented e-book designer, Linh Thoi, who provided excellent results.
 
 I initially strongly considered working out a solution to single source the text content for multiple output formats (physical, Kindle, e-book). After some research, I have learned the tooling is still quite clunky. It  probably makes sense for a large publishing house to spend the time and effort to push through the challenges of single sourcing, but for an individual working on a single book it isn't worth the effort. I expect things will improve over the years. InDesign can directly spin ePub but not Kindle, which is what matters most. Furthermore, it seems people frequently have to hand-tweak conversions, which sort of defeats the point of single sourcing the various output formats.
 
