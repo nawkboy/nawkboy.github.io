@@ -41,7 +41,7 @@ Here are a few I have ordered in the past. There is nothing special about this b
 [Stanley 33-726 8m/26-Feet by 1-1/4-Inch FatMax Metric/Fractional Tape Rule](https://www.amazon.com/Stanley-33-726-26-Feet-4-Inch-Fractional/dp/B00009OYGK)
 + A basic retractable tape measure is extremely useful when laying out physical information radiator boards. This one has both metric and English markings.
 
-[Staedtler® Engineers' Printed Scale](https://www.amazon.com/Staedtler-R-Engineers-Printed-Scale/dp/B00006IAOX)
+[Staedtler&reg; Engineers' Printed Scale](https://www.amazon.com/Staedtler-R-Engineers-Printed-Scale/dp/B00006IAOX)
 + A simple, short ruler of some sort is useful as well. This engineers' scale is inexpensive and should suit any needs you might have.
 
 
