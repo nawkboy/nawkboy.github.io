@@ -104,7 +104,7 @@ Identifying and collecting the additional supplies required for each game can be
 
   You will also want a container to keep all your game sets together. An old suitcase works well. An appropriately-sized duffle bag can also work well. A laminated game board is a little over 24 inches tall. You are therefore looking for a bag or suitcase which can easily hold several rolled-up laminated game boards approximately 8 inches in diameter and 25 inches long. You will also need room for the various laminated letter-sized sheets and a freezer bag of small stuff for each game set. 
 
-  Industrial cases such as the Seahorse SE920 hold up much better than a normal suitcase when flying with heavy training materials. I looked at a lot of different models and brands of cases trying to find something appropriate at a reasonable price. Given the dimensional requirements the Pelican Air 1605 seems to be the best choice available.
+  Industrial cases such as the Seahorse SE920 hold up much better than a normal suitcase when flying with heavy training materials. I looked at a lot of different models and brands of cases trying to find something appropriate at a reasonable price. Given the dimensional requirements, the Pelican Air 1605 seems to be the best choice available. If the rolled up game boards were just an inch or two shorter, a case from one of the decent knock-off brands could be found for half as much.
 
   - Pelican Air 1605
   - Amazon: [https://www.amazon.com/dp/B01EGDWMP2](https://www.amazon.com/dp/B01EGDWMP2)
