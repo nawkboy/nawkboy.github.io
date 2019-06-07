@@ -79,6 +79,15 @@ Identifying and collecting the additional supplies required for each game can be
   - Amazon: (Hefty): [https://www.amazon.com/dp/B01JLPJM7G](https://www.amazon.com/dp/B01JLPJM7G)
   - Amazon: (Ziploc): [https://www.amazon.com/dp/B00CQAHOCO](https://www.amazon.com/dp/B00CQAHOCO)
   
+  
++ **Envelopes for Charts and Game Instruction Sheets**
+   
+   You may want to group the charts and game instruction sheets for each game set. String-tie closure envelopes work well for this.
+
+   - Amazon: (Staples): [https://www.amazon.com/dp/B00WKZL926](https://www.amazon.com/dp/B00WKZL926)
+   - Amazon: (Smead): [https://www.amazon.com/dp/B0026EXR9E](https://www.amazon.com/dp/B0026EXR9E)
+
+
 + **Bounty Select-A-Size, Absorbent Paper Towel Roll**
 
   One roll will be more than you need for a large number of game sets. Any brand of better kitchen paper towel will obviously work. The hard paper towels you find in the average office kitchen and restroom donʼt work well.
@@ -94,6 +103,11 @@ Identifying and collecting the additional supplies required for each game can be
 + **Duffle Bag or Similar**
 
   You will also want a container to keep all your game sets together. An old suitcase works well. An appropriately-sized duffle bag can also work well. A laminated game board is a little over 24 inches tall. You are therefore looking for a bag or suitcase which can easily hold several rolled-up laminated game boards approximately 8 inches in diameter and 25 inches long. You will also need room for the various laminated letter-sized sheets and a freezer bag of small stuff for each game set. 
+
+  I have learned industrial cases such as the Seahorse SE920 work much better for flying with heavy training materials as checked luggage. The cases are a bit clunky, but tough. Based on my measurements, the Pelican Air 1605 without foam looks like the best option if you need a tough case for carrying a dozen or so game sets. I have looked at a lot of different cases and given the dimensional requirements there doesn't seem to be another comparable option at a significantly better price.
+
+  - Pelican Air 1605
+  - Amazon: [https://www.amazon.com/dp/B01EGDWMP2](https://www.amazon.com/dp/B01EGDWMP2)
 
   Whole Foods sometimes carries an inexpensive shoulder bag which works well, although it is not stylish and frequently comes in very limited colors. You can probably find a better one on Amazon with enough searching. Please let me know if you find an ideal choice.
   
