@@ -100,11 +100,11 @@ Identifying and collecting the additional supplies required for each game can be
 
   - Amazon: [https://www.amazon.com/gp/product/B00004Z4CP/](https://www.amazon.com/gp/product/B00004Z4CP/)
   
-+ **Duffle Bag or Similar**
++ **Duffle Bag or Industrial Case**
 
   You will also want a container to keep all your game sets together. An old suitcase works well. An appropriately-sized duffle bag can also work well. A laminated game board is a little over 24 inches tall. You are therefore looking for a bag or suitcase which can easily hold several rolled-up laminated game boards approximately 8 inches in diameter and 25 inches long. You will also need room for the various laminated letter-sized sheets and a freezer bag of small stuff for each game set. 
 
-  I have learned industrial cases such as the Seahorse SE920 work much better for flying with heavy training materials as checked luggage. The cases are a bit clunky, but tough. Based on my measurements, the Pelican Air 1605 without foam looks like the best option if you need a tough case for carrying a dozen or so game sets. I have looked at a lot of different cases and given the dimensional requirements there doesn't seem to be another comparable option at a significantly better price.
+  Industrial cases such as the Seahorse SE920 hold up much better than a normal suitcase when flying with heavy training materials. I looked at a lot of different models and brands of cases trying to find something appropriate at a reasonable price. Given the dimensional requirements the Pelican Air 1605 seems to be the best choice available.
 
   - Pelican Air 1605
   - Amazon: [https://www.amazon.com/dp/B01EGDWMP2](https://www.amazon.com/dp/B01EGDWMP2)
