@@ -79,6 +79,13 @@ Identifying and collecting the additional supplies required for each game can be
   - Amazon: (Hefty): [https://www.amazon.com/dp/B01JLPJM7G](https://www.amazon.com/dp/B01JLPJM7G)
   - Amazon: (Ziploc): [https://www.amazon.com/dp/B00CQAHOCO](https://www.amazon.com/dp/B00CQAHOCO)
   
+ + **Envelopes for Charts and Game Instruction Sheets**
+   
+   You may want to group the charts and game instruction sheets for each game set. String-tie closure envelopes work well for this.
+   
+   - Amazon: (Staples): [https://www.amazon.com/dp/B00WKZL926](https://www.amazon.com/dp/B00WKZL926)
+   - Amazon: (Smead): [https://www.amazon.com/dp/B0026EXR9E](https://www.amazon.com/dp/B0026EXR9E)
+
 + **Bounty Select-A-Size, Absorbent Paper Towel Roll**
 
   One roll will be more than you need for a large number of game sets. Any brand of better kitchen paper towel will obviously work. The hard paper towels you find in the average office kitchen and restroom donʼt work well.
