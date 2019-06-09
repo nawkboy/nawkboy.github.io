@@ -102,7 +102,7 @@ Identifying and collecting the additional supplies required for each game can be
   
 + **Duffle Bag or Industrial Case**
 
-  You will also want a container to keep all your game sets together. An old suitcase works well. An appropriately-sized duffle bag would also work well. A laminated game board is a little under 19 inches tall. You are therefore looking for a bag or suitcase which can easily hold several rolled-up laminated game boards approximately 5 inches in diameter and 19 inches long. You will also need room for the various laminated letter-sized sheets and a freezer bag of small stuff for each game set. 
+  You will also want a container to keep all your game sets together. An old suitcase works well. An appropriately-sized duffle bag should also work well. A laminated game board is a little under 19 inches tall. You are therefore looking for a bag or suitcase which can easily hold several rolled-up laminated game boards approximately 5 inches in diameter and 19 inches long. You will also need room for the various laminated letter-sized sheets and a freezer bag of small stuff for each game set. 
   
   The tightest I have been able to roll a stack of a dozen game boards without creasing them is 5 inches. A smaller number of boards will roll up tighter. The thickness of the paper and laminate also makes a difference. My collection of game sets were produced at different times by different printers. For whatever reason, some are much thicker than others and far harder to roll tightly.
 
