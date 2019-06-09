@@ -102,17 +102,19 @@ Identifying and collecting the additional supplies required for each game can be
   
 + **Duffle Bag or Industrial Case**
 
-  You will also want a container to keep all your game sets together. An old suitcase works well. An appropriately-sized duffle bag can also work well. A laminated game board is a little over 24 inches tall. You are therefore looking for a bag or suitcase which can easily hold several rolled-up laminated game boards approximately 8 inches in diameter and 25 inches long. You will also need room for the various laminated letter-sized sheets and a freezer bag of small stuff for each game set. 
+  You will also want a container to keep all your game sets together. An old suitcase works well. An appropriately-sized duffle bag would also work well. A laminated game board is a little under 19 inches tall. You are therefore looking for a bag or suitcase which can easily hold several rolled-up laminated game boards approximately 5 inches in diameter and 19 inches long. You will also need room for the various laminated letter-sized sheets and a freezer bag of small stuff for each game set. 
+  
+  The tightest I have been able to roll a stack of a dozen game boards without creasing them is 5 inches. A smaller number of boards will roll up tighter. The thickness of the paper and laminate also makes a difference. My collection of game sets were produced at different times by different printers. For whatever reason, some are much thicker than others and far harder to roll tightly.
 
-  Industrial cases such as the Seahorse SE920 hold up much better than a normal suitcase when flying with heavy training materials. I looked at a lot of different models and brands of cases trying to find something appropriate at a reasonable price. Given the dimensional requirements, the Pelican Air 1605 seems to be the best choice available. If the rolled up game boards were just an inch or two shorter, a case from one of the decent knock-off brands could be found for half as much.
-
-  - Pelican Air 1605
-  - Amazon: [https://www.amazon.com/dp/B01EGDWMP2](https://www.amazon.com/dp/B01EGDWMP2)
+  Industrial cases hold up much better than a normal suitcase when flying with heavy training materials. Either of the cases listed below should work. The Seahorse is less expensive, yet the Pelican Air is lighter and slightly larger. With a dozen game sets and a few other supplies the older suitcase I have been using comes in just below fifty pounds.
+  
+  - Amazon: (Seahorse SE920): [https://www.amazon.com/dp/B00XREH2GQ](https://www.amazon.com/dp/B00XREH2GQ)
+  - Amazon: (Pelican Air 1605): [https://www.amazon.com/dp/B01EGDWMP2](https://www.amazon.com/dp/B01EGDWMP2)
 
   Whole Foods sometimes carries an inexpensive shoulder bag which works well, although it is not stylish and frequently comes in very limited colors. You can probably find a better one on Amazon with enough searching. Please let me know if you find an ideal choice.
   
-  - Rolled game board length: 25 inches
-  - Rolled game board diameter: 8 inches
+  - Rolled game board length: 19 inches
+  - Rolled game board diameter: 5 inches
   - Laminated sheets: letter size (8.5x11)
 
 # Using the Free Version
