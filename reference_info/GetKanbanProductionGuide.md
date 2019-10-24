@@ -127,5 +127,5 @@ To help facilitate the game, I have also produced a slide deck which makes it ea
 
 Cheryl Hammond provides an interesting perspective on using the getKanban game. My experience has not been the same as hers. In my experience, "Evil Carlos" has not adversely affected learning outcomes at all. I suspect your experience will vary based on the skills and background of the game participants.
 
-[http://blog.nwcadence.com/hacking-getkanban-version-2/](http://blog.nwcadence.com/hacking-getkanban-version-2/)
+[https://www.nwcadence.com/blog/hacking-getkanban-version-2](https://www.nwcadence.com/blog/hacking-getkanban-version-2)
 
