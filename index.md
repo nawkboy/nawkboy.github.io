@@ -103,4 +103,6 @@ Ingram is one of the world’s largest book distributors. You should be able to 
 
 [Self-Publishing Guidance](reference_info/SelfPublishingGuidance)
 
+[Experience Report: Navigating Self-Incorporated Consulting](reference_info/SelfIncorporatedConsulting)
+
 
