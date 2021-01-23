@@ -1,6 +1,6 @@
 
 # PDF of this Document
-A PDF version of this document is available at: [http://forgingchange.com/tbd](http://forgingchange.com/tbd)
+A PDF version of this document is available at: [http://forgingchange.com/mcs_case_study/DataCenterProductCompanyLeSSMeetupHandout.pdf](http://forgingchange.com/mcs_case_study/DataCenterProductCompanyLeSSMeetupHandout.pdf)
 
 # Introduction
 
@@ -20,7 +20,7 @@ My intentions for the meetup presentation are to quickly walk through the figure
 
 Please read this content carefully prior to the meetup. The more prepared each of you are, the more meaningful our discussion is likely to be.
 
-I recommend you consider printing out the timeline figure prior to meetup. It is easy to lose sight of the forest for the trees as you examine the various aspects detailed in each figure. Keeping the timeline handy -- perhaps making notes on it as you go -- will help you to understand how the other figures relate to the whole. To make this easy I am providing a [PDF version](http://forgingchange.com/tbd) of everything you see here.
+I recommend you consider printing out the timeline figure prior to meetup. It is easy to lose sight of the forest for the trees as you examine the various aspects detailed in each figure. Keeping the timeline handy -- perhaps making notes on it as you go -- will help you to understand how the other figures relate to the whole. To make this easy I am providing a [PDF version](http://forgingchange.com/mcs_case_study/DataCenterProductCompanyLeSSMeetupHandout.pdf) of everything you see here.
 
 I have also invited the director of the BIOS group to join us. His case study pseudonym is Mitya. Mitya is a very seasoned senior manager with deep hands-on experience in the hardware and firmware world. I have tremedous professional respect for Mitya, who I first met while at Nakashima. I am also extremely fortunate to have been adopted as extended family by Mitya, his wife, and their child. Seldom is a road-warrior blessed to find such a supportive lifelong friend.
 
@@ -39,9 +39,6 @@ Book: http://forgingchange.com
 **James Carpenter**  is an experienced independent agile transformation coach, trainer, software engineer, and author who grew up on a Texas dairy farm. His coaching is grounded by the many years he spent as a hands-on software engineer and manager, along with a great deal of academic study, and in-the-trenches transformation work. He is focused on large LeSS and LeSS Huge organizational transformations. His book "Forging Change: Agile Restructuring in Practice" is available in both e-book and print formats from most bookstores including Amazon.
 
 **Mitya (pseudonym)** is an extremely talented senior engineering manager. He has extensive hands-on experience as both a hardware and firmware engineer. He was a pivotal director level manager involved in the LeSS-Huge adoption being discussed. More concrete and glowing details have been omitted in an effort to protect the anonymity of the end client being discussed.
-
-# Table of Contents
-[toc]
 
 # Product Context
 (Corporate policies restrict the usage of the actual company name. All names of individuals in this case study are also pseudo names.)
