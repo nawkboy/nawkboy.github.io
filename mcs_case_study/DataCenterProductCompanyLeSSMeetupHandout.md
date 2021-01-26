@@ -1,5 +1,11 @@
 
+# LeSS-Huge Adoption Case Study
+
+This is a handout for my
+[LeSS-Huge Adoption Case Study](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin-Cities/events/275987580/) presentation at the Twin Cities LeSS Meetup.
+
 # PDF of this Document
+
 A PDF version of this document is available at: [http://forgingchange.com/mcs_case_study/DataCenterProductCompanyLeSSMeetupHandout.pdf](http://forgingchange.com/mcs_case_study/DataCenterProductCompanyLeSSMeetupHandout.pdf)
 
 # Introduction
