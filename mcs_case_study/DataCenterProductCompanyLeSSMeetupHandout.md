@@ -38,7 +38,7 @@ Executive Agile Coach/Owner\
 Agile Carpentry\
 Email: james at agilecarpentry.com\
 Website: [https://agilecarpentry.com](https://agilecarpentry.com)\
-Book: [https://forgingchange.com](https://forgingchange.com)\
+Book: [https://forgingchange.com](https://forgingchange.com)
 
 # Biographies
 
