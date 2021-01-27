@@ -32,13 +32,13 @@ I have also invited the director of the BIOS group to join us. His case study ps
 
 I look forward to seeing everyone and having a great conversation.
 
-Sincerely,
-James Carpenter
-Executive Agile Coach/Owner
-Agile Carpentry
-Email: james at agilecarpentry.com
-Website: http://agilecarpentry.com
-Book: http://forgingchange.com
+Sincerely,\
+James Carpenter\
+Executive Agile Coach/Owner\
+Agile Carpentry\
+Email: james at agilecarpentry.com\
+Website: [https://agilecarpentry.com](https://agilecarpentry.com)\
+Book: [https://forgingchange.com](https://forgingchange.com)\
 
 # Biographies
 
