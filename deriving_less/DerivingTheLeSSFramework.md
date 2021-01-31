@@ -122,13 +122,15 @@ Again, no rocket science just the natural thing to do.
 
 # Deriving LeSS: Step 7: Shared Full Time Scrum Masters
 
-Single team Scrum is not perspective as to whether the Scrum Master is a fully dedicated role or not. LeSS takes the position the Scrum Master workload with multiple teams is enough to benefit from requiring the Scrum Master role to be a full-time role serving no more than three teams. Once the teams have been up and running for a few sprints the Scrum Master workload with multiple teams tends to come from the challenges of continually working to address more systemic organizational issues. It is important to remember each self-managing development team is managing it’s own work, the Scrum Master is not a project manager role. The LeSS rules regarding Scrum Masters are largely a result of empirical experience rather than self-evident easily derived rules such as having a single Increment and a common Definition of Done. That said, they are very sensible. Failure to follow them generally results in otherwise avoidable problems.
+Single team Scrum is not perspective as to whether the Scrum Master is a fully dedicated role or not. LeSS takes the position the Scrum Master workload with multiple teams is enough to benefit from requiring the Scrum Master role to be a full-time role serving no more than three teams. 
+
+Once the teams have been up and running for a few sprints the Scrum Master workload with multiple teams tends to come from the challenges of continually working to address more systemic organizational issues. It is important to remember each self-managing development team is managing it’s own work, the Scrum Master is not a project manager role. 
+
+The LeSS rules regarding Scrum Masters are largely a result of empirical experience rather than self-evident easily derived rules such as having a single Increment and a common Definition of Done. That said, they are very sensible. Failure to follow them generally results in otherwise avoidable problems.
 
 ## Relevant LeSS Rules
 
-* **Scrum Masters are responsible for a well-working LeSS adoption. Their focus is towards the Teams, Product Owner, organization, and development practices.**
-
-* **A Scrum Master does not focus on just one team but on the overall organizational system.**
+* **Scrum Masters are responsible for a well-working LeSS adoption. Their focus is towards the Teams, Product Owner, organization, and development practices. A Scrum Master does not focus on just one team but on the overall organizational system.**
 
 * **A Scrum Master is a dedicated full-time role.**
 
