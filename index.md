@@ -109,3 +109,12 @@ Ingram is one of the world’s largest book distributors. You should be able to 
 
 [Presentation Handout: LeSS-Huge Adoption Case Study](mcs_case_study/DataCenterProductCompanyLeSSMeetupHandout)
 
+# LeSS Focused Information
+
+[Deriving LeSS](deriving_less/DerivingTheLeSSFramework)
+
+[Examining LeSS-Huge](deriving_less/ExaminingLeSSHuge)
+
+
+
+

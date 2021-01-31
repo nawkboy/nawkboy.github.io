@@ -146,7 +146,7 @@ Single team Scrum refinement often involves clarification of requirements along 
 
 To avoid overly restricting product development groups the formal LeSS rules are a bit more lax than the LeSS guides. Aside from adding "Multi-Team" to the text about refinement there are no changes to the diagrams in this step.
 
-## Relevant LeSS Rules:
+## Relevant LeSS Rules
 
 * **Product Backlog Refinement (PBR) is preferably done with multiple teams to increase shared learning and to exploit coordination opportunities.**
 
