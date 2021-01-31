@@ -22,6 +22,10 @@ In *Forging Change*, James Carpenter cuts through the noise that often surrounds
 
 *Forging Change* provides a well of tested information, models, and examples that address these and other common challenges. The result is a dependable, practical resource you will turn to again and again as you work to achieve positive, lasting organizational change.
 
+# Book Excerpt
+
+[Using Structure to Mold Culture](excerpts/UsingStructureToMoldCulture)
+
 # Book Formats
 
 I am publishing the book in paperback, hardcover, and e-book format using a combination of Amazon and IngramSpark.
@@ -114,7 +118,3 @@ Ingram is one of the world’s largest book distributors. You should be able to 
 [Deriving LeSS](deriving_less/DerivingTheLeSSFramework)
 
 [Examining LeSS-Huge](deriving_less/ExaminingLeSSHuge)
-
-
-
-
