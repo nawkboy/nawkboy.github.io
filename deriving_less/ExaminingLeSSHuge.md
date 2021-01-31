@@ -45,7 +45,7 @@ Here is my LeSS Huge summary diagram, along with the equivalent LeSS Huge diagra
 
 As you can see from the diagrams above, the LeSS Huge Framework is a rather straightforward extension of the LeSS Framework. It now makes sense to review the LeSS Huge specific rules which LeSS adds on top of the underlying LeSS Framework rules.
 
-The LeSS Huge rules below are coped verbatim from the rules summary on the LeSS website. Please read and reflect on them carefully, while concurrently examining the diagrams above.
+The LeSS Huge rules below are coped verbatim from the [rules summary on the LeSS website](https://less.works/less/rules/index). Please read and reflect on them carefully, while concurrently examining the diagrams above.
 
 # Verbatim Copy: LeSS Huge Framework Rules
 
@@ -62,7 +62,8 @@ All LeSS rules apply to LeSS Huge, unless otherwise stated. Each Requirement Are
 * Each Requirement Area has one Area Product Owner.
 
 * Each Requirement Area has between “4-8” teams. Avoid violating this range.
-LeSS Huge adoptions, including the structural changes, are done with an evolutionary incremental approach.
+
+* LeSS Huge adoptions, including the structural changes, are done with an evolutionary incremental approach.
 
 * Remember each day: LeSS Huge adoptions take months or years, infinite patience, and sense of humor.
 
@@ -88,4 +89,5 @@ If you are trying to understand if LeSS is appropriate for your own organization
 
 For more serious inquiries I can share a draft LeSS case study for work I did at a past networking hardware client. My case study is not yet published on the LeSS website as I am working through various edits with Viktor Grgic and soon Craig Larman and Bas Vodde. I believe you will find my case study, book, and references will make it very easy to evaluate my ability to help you. My LinkedIn recommendations from Trevor Gamba, Dmitry Barsky, and David Stackleather are some of the more insightful ones.
 
-Contact details can be found on the [Agile Carpentry](https//agilecarpentry.com) website.
+Contact details can be found on the 
+[Agile Carpentry](https://agilecarpentry.com) website.
