@@ -1,5 +1,6 @@
 ---
 title: Useful Construction Materials
+layout: default
 ---
 
 # Useful Construction Materials

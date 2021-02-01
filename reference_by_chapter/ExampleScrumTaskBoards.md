@@ -1,5 +1,6 @@
 ---
 title: "Example Scrum Task Boards: Useful References"
+layout: default
 ---
 
 # Example Scrum Task Boards: Useful References

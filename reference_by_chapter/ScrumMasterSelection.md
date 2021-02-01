@@ -1,5 +1,6 @@
 ---
 title: "Scrum Master Selection: Useful References"
+layout: default
 ---
 
 # Scrum Master Selection: Useful References

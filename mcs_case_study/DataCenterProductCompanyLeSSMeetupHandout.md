@@ -1,3 +1,7 @@
+---
+title: LeSS-Huge Adoption Case Study
+layout: default
+---
 
 # LeSS-Huge Adoption Case Study
 

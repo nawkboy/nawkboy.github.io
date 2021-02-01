@@ -1,3 +1,8 @@
+---
+title: Russell Healyʼs getKanban Simulation Game
+layout: default
+---
+
 # Russell Healyʼs getKanban Simulation Game
 
 Russell Healy of getKanban Limited in New Zealand has created a fantastic instructional board game called "getKanban." You can read more at [the game website](https://getkanban.com/).

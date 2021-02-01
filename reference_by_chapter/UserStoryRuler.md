@@ -1,5 +1,6 @@
 ---
 title: "User Story Ruler: Useful References"
+layout: default
 ---
 
 # User Story Ruler: Useful References

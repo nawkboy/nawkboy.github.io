@@ -1,5 +1,6 @@
 ---
 title: "Estimating Business Value: Useful References"
+layout: default
 ---
 
 # Estimating Business Value: Useful References

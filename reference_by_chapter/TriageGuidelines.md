@@ -1,5 +1,6 @@
 ---
 title: "Triage Guidelines: Useful References"
+layout: default
 ---
 
 # Triage Guidelines: Useful References

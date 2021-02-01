@@ -1,5 +1,6 @@
 ---
 title: "Agile Deployment Models: Useful References"
+layout: default
 ---
 
 # Agile Deployment Models: Useful References

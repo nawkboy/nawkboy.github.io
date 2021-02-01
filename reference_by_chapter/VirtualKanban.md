@@ -1,5 +1,6 @@
 ---
 title: "Virtual Kanban: Useful References"
+layout: default
 ---
 
 # Virtual Kanban: Useful References

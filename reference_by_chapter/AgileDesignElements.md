@@ -1,5 +1,6 @@
 ---
 title: "Agile Design Elements: Useful References"
+layout: default
 ---
 
 # Agile Design Elements: Useful References

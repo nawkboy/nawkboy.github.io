@@ -1,5 +1,6 @@
 ---
 title: "Offical Scrum Guide: Useful References"
+layout: default
 ---
 
 # Offical Scrum Guide: Useful References

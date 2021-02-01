@@ -1,5 +1,6 @@
 ---
 title: "Ratcheting Definition of Done: Useful References"
+layout: default
 ---
 
 # Ratcheting Definition of Done: Useful References

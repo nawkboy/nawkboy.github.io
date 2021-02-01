@@ -1,3 +1,8 @@
+---
+title: Navigating Self-Incorporated Consulting
+layout: default
+---
+
 # Experience Report: Navigating Self-Incorporated Consulting
 
 The handout below was created in support of a

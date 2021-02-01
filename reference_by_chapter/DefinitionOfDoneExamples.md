@@ -1,5 +1,6 @@
 ---
 title: "Definition of Done Examples: Useful References"
+layout: default
 ---
 
 # Definition of Done Examples: Useful References

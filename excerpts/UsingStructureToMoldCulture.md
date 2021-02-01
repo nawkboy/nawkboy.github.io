@@ -1,3 +1,8 @@
+---
+title: Using Structure to Mold Culture
+layout: default
+---
+
 ![Forging Change On Kitchen Counter](images/ForgingChangeOnKitchenCounter.jpg)
 
 # Using Structure to Mold Culture

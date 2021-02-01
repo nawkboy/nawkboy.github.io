@@ -1,5 +1,6 @@
 ---
 title: "Sprint Alignment Wall: Useful References"
+layout: default
 ---
 
 # Sprint Alignment Wall: Useful References

@@ -1,3 +1,8 @@
+---
+title: Deriving the LeSS Framework
+layout: default
+---
+
 ![Deriving LeSS Header Image](images/DerivingLeSS_LinkedInHeader.png)
 
 # Deriving the LeSS Framework

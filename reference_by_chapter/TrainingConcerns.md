@@ -1,5 +1,6 @@
 ---
 title: "Training Concerns: Useful References"
+layout: default
 ---
 
 # Training Concerns: Useful References

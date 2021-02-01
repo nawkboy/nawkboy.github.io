@@ -1,5 +1,6 @@
 ---
 title: "Discerning Genuine Unit Testing: Useful References"
+layout: default
 ---
 
 # Discerning Genuine Unit Testing: Useful References

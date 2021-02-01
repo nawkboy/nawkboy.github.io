@@ -1,3 +1,8 @@
+---
+title: Examining LeSS Huge
+layout: default
+---
+
 ![Examining LeSS Header Image](images/ExaminingLeSSHuge_LinkedInHeader.png)
 
 # Examining LeSS Huge

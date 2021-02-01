@@ -1,5 +1,6 @@
 ---
 title: "Progressive Refinement at Scale: Useful References"
+layout: default
 ---
 
 #  Progressive Refinement at Scale: Useful References

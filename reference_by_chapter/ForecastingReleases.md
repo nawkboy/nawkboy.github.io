@@ -1,5 +1,6 @@
 ---
 title: "Forecasting Releases: Useful References"
+layout: default
 ---
 
 # Forecasting Releases: Useful References

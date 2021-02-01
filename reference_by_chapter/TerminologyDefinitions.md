@@ -1,5 +1,6 @@
 ---
 title: "Terminology Definitions: Useful References"
+layout: default
 ---
 
 # Terminology Definitions: Useful References

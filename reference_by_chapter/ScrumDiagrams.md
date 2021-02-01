@@ -1,5 +1,6 @@
 ---
 title: "Scrum Diagrams: Useful References"
+layout: default
 ---
 
 # Scrum Diagrams: Useful References
