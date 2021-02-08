@@ -1,4 +1,4 @@
 ---
-title: Forging Change Home Page
+title: Forging Change Website
 redirect_to: https://agilecarpentry.com
 ---
