@@ -1,12 +1,4 @@
 ---
 title: Navigating Self-Incorporated Consulting
-layout: default
+redirect_to: https://agilecarpentry.com/blog/self-incorporated-consulting/
 ---
-
-# Experience Report: Navigating Self-Incorporated Consulting
-
-The handout below was created in support of a
-[Experience Report: Navigating Self-Incorporated Consulting](https://www.meetup.com/Large-Scale-Scrum-LeSS-in-NYC/events/275353818)
-NYC LeSS meetup.
-
-[Pre-Read Handout](NavigatingSelfIncorporatedConsulting.pdf)

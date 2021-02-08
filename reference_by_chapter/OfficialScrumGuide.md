@@ -1,10 +1,4 @@
 ---
 title: "Official Scrum Guide: Useful References"
-layout: default
+redirect_to: https://agilecarpentry.com/forgingchange/reference_by_chapter/OfficialScrumGuide/
 ---
-
-# Official Scrum Guide: Useful References
-
-[Official Scrum Guide](https://scrumguides.org/)
-+ A variety of reading formats are available (PDF, web, etc.).
-+ Expert translations of the English source version into many other languages are also provided.

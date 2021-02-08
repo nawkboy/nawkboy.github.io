@@ -1,8 +1,4 @@
 ---
 title: "Scrum Diagrams: Useful References"
-layout: default
+redirect_to: https://agilecarpentry.com/forgingchange/reference_by_chapter/ScrumDiagrams/
 ---
-
-# Scrum Diagrams: Useful References
-
-I do not currently have additional references for this chapter.

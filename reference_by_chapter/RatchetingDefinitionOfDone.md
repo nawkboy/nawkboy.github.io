@@ -1,8 +1,4 @@
 ---
 title: "Ratcheting Definition of Done: Useful References"
-layout: default
+redirect_to: https://agilecarpentry.com/forgingchange/reference_by_chapter/RatchetingDefinitionOfDone/
 ---
-
-# Ratcheting Definition of Done: Useful References
-
-I do not currently have additional references for this chapter.

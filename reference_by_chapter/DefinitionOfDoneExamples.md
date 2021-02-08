@@ -1,8 +1,4 @@
 ---
 title: "Definition of Done Examples: Useful References"
-layout: default
+redirect_to: https://agilecarpentry.com/forgingchange/reference_by_chapter/DefinitionOfDoneExamples/
 ---
-
-# Definition of Done Examples: Useful References
-
-I do not currently have additional references for this chapter.

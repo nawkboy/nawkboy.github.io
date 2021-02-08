@@ -1,8 +1,4 @@
 ---
 title: "Management Behaviors in Scrum: Useful References"
-layout: default
+redirect_to: https://agilecarpentry.com/forgingchange/reference_by_chapter/MgmtBehaviorsInScrum/ 
 ---
-
-# Management Behaviors in Scrum: Useful References
-
-I do not currently have additional references for this chapter.

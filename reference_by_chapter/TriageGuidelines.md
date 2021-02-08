@@ -1,8 +1,4 @@
 ---
 title: "Triage Guidelines: Useful References"
-layout: default
+redirect_to: https://agilecarpentry.com/forgingchange/reference_by_chapter/TriageGuidelines/
 ---
-
-# Triage Guidelines: Useful References
-
-I do not currently have additional references for this chapter.
